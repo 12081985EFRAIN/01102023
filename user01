@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-balon-futbol-estilo-realista_23-2147780875.jpg"group-title="Deporte",FUTBOLITO
-https://cdnelverruca9.s3.amazonaws.com/manifest.m3u8
+https://d28q0dll3fo7ay.cloudfront.net/out/v1/2370f106ad21496cbf41edf4aa88c2e4/index.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="Bolivia", Bolivision
 https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_fb359a4642bc49eaa7418b2e6d2a01dd~mv2.png"group-title="Musical",UPPTV
