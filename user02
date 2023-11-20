@@ -57,7 +57,7 @@ https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 http://tv.istbolivia.com:1935/tvshow/tvshow/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1e13f49f1a1447ac939cc7032acafe33~mv2.png"group-title="BOLIVIA",NEO TV
 https://tv1.mediacp.eu:3661/live/rlbpwxvhlive.m3u8
-#EXTINF:-1, tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/logo-tvlatina.png"group-title="Bolivia" ,TVLatina
+#EXTINF:-1, tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/logo-tvlatina.png"group-title="BOLIVIA",TVLatina
 https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ebd0393a990f4fe3ba97aff8514fe34f~mv2.png"group-title="BOLIVIA",CVC
 https://5d00db0e0fcd5.streamlock.net/7034/7034/chunklist_w1500290821.m3u8
@@ -528,23 +528,23 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 
 DEPORTES
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64b02bbd7d93410008fdae60livestitch/colorLogoPNG.png" group-title="DEPORTIVOS", DAZN FUTBOL FEMENINO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_eee77d5393e64f4ea2b63077025bcde2~mv2.png"group-title="DEPORTES",DAZN FUTBOL FEMENINO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b02bbd7d93410008fdae60livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c79aa411c7a148a69ac2e09e2b46fe01~mv2.png"group-title="DEPORTES",CHV DEPORTES
 https://i.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0e2dccf5d2634984b421ff6015789518~mv2.png"group-title="DEPORTES",La Liga Premier
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0e2dccf5d2634984b421ff6015789518~mv2.png"group-title="DEPORTES",PREMIER LEAGUE
 https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_13cbb522d1f140b9a5b88f2bfccccd7d~mv2.png"group-title="DEPORTES",TD TV
 http://190.92.25.115:8000/play/a0bk/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_855a920a90254991b8dc6e97a35d983c~mv2.png"group-title="DEPORTES",FUTV
 http://190.92.25.115:8000/play/a0br/index.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png"group-title="DEPORTES",BEIN SPORTS XTRA Ñ
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_757056202ebc496fb1cdb86090644414~mv2.png"group-title="DEPORTES",BEIN SPORTS XTRA Ñ
 https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png"group-title="DEPORTES",BEIN SPORT EXTRA Ñ
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_757056202ebc496fb1cdb86090644414~mv2.png"group-title="DEPORTES",BEIN SPORT EXTRA Ñ
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN-Espanol.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png"group-title="DEPORTES",BEIN SPORT EXTRA Ñ
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_757056202ebc496fb1cdb86090644414~mv2.png"group-title="DEPORTES",BEIN SPORT EXTRA Ñ
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png"group-title="DEPORTES",BEIN SPORT EXTRA Ñ
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_757056202ebc496fb1cdb86090644414~mv2.png"group-title="DEPORTES",BEIN SPORT EXTRA Ñ
 https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d39a3a401b354d63a7c22e1db59e496f~mv2.png"group-title="DEPORTES",TNT SPORTS HD
 https://comodoro.cdn.rcs.net.ar/mnp/tntsports/output.mpd
@@ -726,7 +726,7 @@ http://138.59.177.34:8000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_8259fbb8e1514cdaaf929c1525a14179~mv2.png"group-title="MUSICALES",TV Urbana
 https://urbanrevolution.es:8443/live/TV/chunklist_w1769735566.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_cf400f19d76d455b8f911f83afce3c19~mv2.png"group-title="MUSICALES",K-POP TV Play
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1b2c7eb5c0024ac7b3522b17829d24bb~mv2.png"group-title="MUSICALES",Hits 360
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
 #EXTINF:-1 tvg-logo="https://telemusica.tv/wp-content/uploads/2022/08/Telemusicax512.png"group-title="MUSICALES",Telemusica
@@ -739,14 +739,12 @@ https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_972e89a72f034780b3ac3557aa6f40b1~mv2.png"group-title="MUSICALES",SOL MUSICA
 https://d2glyu450vvghm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/472860c7-a56c-443d-b726-13e464b3b50a/0.m3u8
-#EXTINF:-1 tvg-logo="https://telemusica.tv/wp-content/uploads/2022/08/Telemusicax512.png"group-title="MUSICALES",TeleMusica
-https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?hls_ctx=2s1u6yl0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/z6srIMD.png" group-title="MUSICALES",Global TV (1080p)
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/115726.png" group-title="MUSICALES",PJ Digital
 https://vdo1.panelstreaming.live:3363/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://latinosradio.cl/wp-content/uploads/2020/10/cropped-logo-latinos-radio-resaltado.png" group-title="MUSICALES",Latinos Radio TV - Xtrema TV
-https://stmv2.zcasthn.com.br/latinosmedia/latinosmedia/playlist.m3u8
+https://stmv5.voxtvhd.com.br/latinosmedia/latinosmedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_1f9a3423b1cf42acbbdacc97b8be09b7~mv2.png"group-title="MUSICALES",88 Stereo
 http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w796613671.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-voice-en-vivo.jpg"group-title="MUSICALES",VEO TV MUSIC
@@ -794,11 +792,11 @@ https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/radiokaribena.pe/portal2020/wp-content/uploads/2020/03/00000001-1.png"group-title="MUSICALES",KaribeñaTV
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosabrosuratv.com/wp-content/uploads/2022/06/279625532_445819207379608_28218367718250230_n-1536x864.png"group-title="MUSICALES",La Sabrosura TV * | CL
-https://tv.streaming-chile.com:1936/radiosabrosura/radiosabrosura/playlist.m3u8
+https://vdo.streaming-chile.com:3153/live/radiosabrosuralive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_aa43b7a40a0b49e2b2c7c9f165060511~mv2.png"group-title="MUSICALES",TV HD TROPICAL
 https://cloud3.streaminglivehd.com:1936/8068/8068/chunklist_w2129411212.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_a2e4f36c2a224f41883f7d8404ef00f2~mv2.png"group-title="MUSICALES",+ CUMBIA TV HD 720p
-https://ca2.inka.net.pe/best-MasCum-0102210011/index.m3u8
+https://mi.godo.net.pe/best-MasCum-0102210011/index.m3u8?token=8d836c16e64787441f717e869cfe7b29b650f686-d299bce4ed0df562ebce7a3aa274aa32-1700458614-1700447814&remote=181.115.171.178
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_e96c9ef4218b4814bd21a00205abdffe~mv2.png"group-title="MUSICALES",TDI Colombia
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://app.latinzonetv.com/apiv3/release/iphone/10/photo/navBar_titleImage@2x.png"group-title="MUSICALES",Latin Zone TV
