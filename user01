@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c53a501e4b6447cb97e6c649354a3034~mv2.png"group-title="DEPORTES",Bolivia vs Uruguay
-https://videographlive.akamaized.net/in/vglivein/vgrec-sk-212397/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c53a501e4b6447cb97e6c649354a3034~mv2.png"group-title="DEPORTES",Bolivia vs Uruguay
-http://oaktvpro.club:8080/992879023/B2005CC1/66159
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c53a501e4b6447cb97e6c649354a3034~mv2.png"group-title="DEPORTES",FUTBOLITO
+https://24363.live.streamtheworld.com/LA_RED_AM910AAC.aac
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="BOLIVIA", Bolivision
 https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_fb359a4642bc49eaa7418b2e6d2a01dd~mv2.png"group-title="MUSICALES",UPPTV
@@ -352,7 +350,7 @@ http://190.92.25.115:8000/play/a0bu
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_e79dab85944c4c6985201c07b93d8347~mv2.png"group-title="CINE",Start Channel
 http://190.92.25.115:8000/play/a0bt/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_e79dab85944c4c6985201c07b93d8347~mv2.png"group-title="CINE",Start Channel
-http://181.78.8.90:16123/play/ch07 
+http://181.78.8.90:16123/play/ch07
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_f0f3d519fa854399b6c23b1f607ba361~mv2.png"group-title="VARIEDADES", National Geographic
 http://138.59.177.34:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_f0f3d519fa854399b6c23b1f607ba361~mv2.png"group-title="VARIEDADES", National Geographic
@@ -368,7 +366,7 @@ http://138.59.177.34:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c6d06eada326414294bee5a63a0b60a5~mv2.png"group-title="CINE",FX
 http://138.59.177.34:8000/play/a03z/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c6d06eada326414294bee5a63a0b60a5~mv2.png"group-title="CINE",FX
-http://181.78.8.90:16123/play/ch08 
+http://181.78.8.90:16123/play/ch08
 #EXTINF:-1 tvg-id="XtremaAnimal.ar" tvg-logo="https://i.imgur.com/HQxKLlK.png" group-title="VARIEDADES",Xtrema Animal (360p)
 https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="CINE",Xtrema Cine Acción (268p)
