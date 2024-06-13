@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c53a501e4b6447cb97e6c649354a3034~mv2.png"group-title="DEPORTES",Bolivia Vs Ecuador
-https://jeinzmacias506.s3.us-west-2.amazonaws.com/hls/0/stream.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c53a501e4b6447cb97e6c649354a3034~mv2.png"group-title="DEPORTES",Bolivia Vs Ecuador
-https://jeinzmacias509.s3.eu-west-1.amazonaws.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="BOLIVIA",Bolivision
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/480p.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="BOLIVIA",Bolivision
