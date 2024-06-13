@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c53a501e4b6447cb97e6c649354a3034~mv2.png"group-title="DEPORTES",Bolivia Vs Ecuador
+https://jeinzmacias506.s3.us-west-2.amazonaws.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c53a501e4b6447cb97e6c649354a3034~mv2.png"group-title="DEPORTES",Bolivia Vs Ecuador
+https://jeinzmacias509.s3.eu-west-1.amazonaws.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="BOLIVIA",Bolivision
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/480p.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="BOLIVIA",Bolivision
@@ -102,12 +106,10 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"group-title="VARIEDADES",America TV
 http://tv14s.xyz:8080/hilton/123456/164881
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"group-title="VARIEDADES",America TV
-https://prepublish.f.qaotic.net/a07/americahls-100056/Playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"group-title="VARIEDADES",America TV
 https://github.com/mortal251/archivos_m3u8/raw/main/america_hls.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"group-title="VARIEDADES",America TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717283270/ei/ZlVbZr_mMqTz1sQP8O6rmA4/ip/181.115.171.164/id/zcWXboTnous.3/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr6---sn-xouxacv-a2cs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/gcr/bo/vprv/1/playlist_type/DVR/initcwndbps/565000/mh/sM/mip/2800:cd0:c319:8000:10b1:7ff7:d42a:63aa/mm/44/mn/sn-xouxacv-a2cs/ms/lva/mv/m/mvi/6/pcm2cms/yes/pl/42/dover/13/pacing/0/short_key/1/keepalive/yes/mt/1717260986/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AJfQdSswRgIhAJkKXU6RhlJLM-jAjLZcv2DX-RmxP8QVAPdFQsRdHaszAiEA6VuZ0UP-gW30oEu3UlEjLqzfuWSMviqlHXoBNJaHJQs%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AHlkHjAwRAIgVM72lpAAJMjOPay-egY2xNBNgWd5-iXjFUOzX7Wgcr0CIGsUH4EemiAIH7BhUhxnlviTHWIMtpMzYTxaqbL5rF3x/playlist/index.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxjNaDWc9JZ5ur_-RCw1Yxe2iJE4FIFzuEhg&usqp=CAU " group-title="VARIEDADES", USA |america tv
+https://prepublish.f.qaotic.net/a07/americahls-100056/Playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxjNaDWc9JZ5ur_-RCw1Yxe2iJE4FIFzuEhg&usqp=CAU " group-title="VARIEDADES", USA |America tv
 https://live.gideo.video:443/americateve2/HD720/HD720.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="VARIEDADES",El Trece (1080p)
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
@@ -152,7 +154,7 @@ https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w952095212.m3u8
 #EXTINF:-1 tvg-logo="https://www.lorini.net/tvs/TVS_Venezuela.png"group-title="VARIEDADES",TVS
 https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_41c5d7639f214568adb5693240afc5de~mv2.png"group-title="VARIEDADES",TVC EC
-https://alba-ec-tvc-tvc.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
+https://alba-ec-tvc-tvc.stream.mediatiquestream.com/360p.m3u8
 
 
 CINE
@@ -469,14 +471,8 @@ https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 https://streamyes.alsolnet.com/esportsmax/live/.m3u8
 
 DEPORTES
-TNT PREMIUN
-http://23467613740855118.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855118.ts
-TNT SPORTS 2 VIP HD
-http://23467613740819037.ofk0601.xyz:80/live/ja29929/SXqsekeShG/819037.ts
-WIN SPORT PLUS VIP SD
-http://23467613740839363.ofk0601.xyz:80/live/ja29929/SXqsekeShG/839363.ts
-CDF BASICO VIP SD
-http://23467613740839356.ofk0601.xyz:80/live/ja29929/SXqsekeShG/839356.ts
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5c57e568a44842289c5aeb4855c57d36~mv2.png"tvg-group="DEPORTES",CLARO SPORTS
+http://38.41.8.1:8000/play/a050
 #EXTINF:-1 tvg-logo="https://new.tvpublica.com.ar/wp-content/uploads/2021/05/DeporTVOK-300x225.jpg"group-title="DEPORTES",DEPORTV
 http://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c79aa411c7a148a69ac2e09e2b46fe01~mv2.png"group-title="DEPORTES",CHV DEPORTES
@@ -489,18 +485,14 @@ https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_757056202ebc496fb1cdb86090644414~mv2.png"group-title="DEPORTES",BEIN SPORT EXTRA Ñ
 https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/eng-1-HD.png",BEIN SPORTS 1 ENGLISH
-http://sansat.net:88/02029761595924/9d089925dc60a821/5241
-#EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png",BEIN SPORTS 1 FHD
-http://sansat.net:88/02029761595924/9d089925dc60a821/60958
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5c57e568a44842289c5aeb4855c57d36~mv2.png"tvg-group="DEPORTES",CLARO SPORTS
-http://38.41.8.1:8000/play/a050
 #EXTINF:-1 tvg-id="612directv.cl" tvg-name="LAT | DIRECTV SPORTS 2 HD" tvg-logo="http://oaktvpro.club:8080/images/41518b274d35f23dae4857e145b426a1.png" group-title="DEPORTES",LAT | DIRECTV SPORTS 2 HD
 http://oaktvpro.club:8080/992879023/B2005CC1/7085
 #EXTINF:-1 tvg-id="179directv.cl" tvg-name="LAT | DIRECTV SPORTS HD +" tvg-logo="http://oaktvpro.club:8080/images/d405415b6aad35c40dc9c48dde640dcf.png" group-title="DEPORTES",LAT | DIRECTV SPORTS HD +
 http://oaktvpro.club:8080/992879023/B2005CC1/7086
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ LIGA DE CAMPEONES HD" tvg-logo="http://oaktvpro.club:8080/images/99be91125e2ef4b3c546ae82106adcc1.png" group-title="DEPORTES",M+ LIGA DE CAMPEONES HD
-http://oaktvpro.club:8080/992879023/B2005CC1/93024
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQCNx8Mcyjs2Nrmc5JChTfbGNcnV7hiyFjQ&usqp=CAU " group-title="DEPORTES",Direc tv sports (argentina)
+http://tv.proyectox.vip:8080/userfruto1/H2m3De4aMA/358817
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsl8or_Oto1vobff4XCUBHofL2uDkvpTr9Hw&usqp=CAU " group-title="DEPORTES",Direc tv sport 2 (argentina)
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/456658
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ LIGA DE CAMPEONES FHD" tvg-logo="http://oaktvpro.club:8080/images/99be91125e2ef4b3c546ae82106adcc1.png" group-title="DEPORTES",M+ LIGA DE CAMPEONES FHD
 http://oaktvpro.club:8080/992879023/B2005CC1/127878
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="ES | M+LIGA DE CAMPEONES HD" tvg-logo="http://oaktvpro.club:8080/images/99be91125e2ef4b3c546ae82106adcc1.png" group-title="DEPORTES",ES | M+LIGA DE CAMPEONES HD
@@ -517,6 +509,108 @@ http://oaktvpro.club:8080/992879023/B2005CC1/66159
 http://oaktvpro.club:8080/992879023/B2005CC1/66160
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-name="ES | M+LIGA DE CAMPEONES 3 HD" tvg-logo="http://oaktvpro.club:8080/images/7de5dc50cdfa328461468862bbd44623.png" group-title="DEPORTES",ES | M+LIGA DE CAMPEONES 3 HD
 http://oaktvpro.club:8080/992879023/B2005CC1/66161
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ LIGA DE CAMPEONES HD" tvg-logo="http://oaktvpro.club:8080/images/99be91125e2ef4b3c546ae82106adcc1.png" group-title="DEPORTES",M+ LIGA DE CAMPEONES HD
+http://oaktvpro.club:8080/992879023/B2005CC1/93024
+
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXa1FdkQBzgOgx_1o5BMm60su9RQ0HkiZ1ag&usqp=CAU " group-title="DEPORTES",Bein sport ñ
+http://31.42.185.158:8000/5527574227/TJNFVOGBLe/126452
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA1J-zJ-_t8vDy8Nvoir4sxJxW8czsd86QGw&usqp=CAU " group-title="DEPORTES",Real Madrid 
+https://dashtvcloud.online:8443/josealbrook/panama121/144345
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1oI7eHTvRyfmceZ9O8qBleWbuFRGUs16qA&usqp=CAU" group-title="DEPORTES", Movistar plus  + Directo
+http://985511922102646234.tkop413.xyz:80/play/ja810198/NT3W3crnGm/646234.ts
+#EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/4/4c/LaLigaTV_2_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230708175335 " group-title="DEPORTES",Movistar 4TV la liga2
+http://928938401126165398.ofsd5513.xyz:80/live/Sue23/Alv10/165398.ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/f9y6oe1692444384.png"group-title="DEPORTES",Movistar 4TV BAR la liga
+http://ferelmasgrande.hopto.org:8080/saray1/saray1/594244
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1T-Hpcixb1LVj3Wa8IaqUIc89a3o4y5B3dRNW5uir-g&s " group-title="DEPORTES", sky sport la liga (México)
+https://dashtvcloud.online:8443/josealbrook/panama121/144286
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEwQCGDpywup6nY7W6wZAyuOqE45RA9DSLqA&usqp=CAU"group-title="DEPORTES",Vix Premium la liga
+http://tvbross.com:8090/1uzBQuF2FQ/jtFm50oNx0/159347
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJpIevXtFDFMKFaTZZDK_2mX50mW6JdmVxyQ&usqp=CAU"group-title="DEPORTES",Vamos Multivision+
+http://254002975550321072.ofx508.xyz:80/live/fe94136/tGFetHT7kC/321072.ts
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png "group-title="DEPORTES",Movistar la liga1
+http://26133922272165392.ofsd5513.xyz:80/live/ja810198/NT3W3crnGm/165392.ts
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png "group-title="DEPORTES",Movistar la liga1
+http://sebasy.dyndns.tv:8000/vaquezs/vaquezs/1018
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIY1rkjN7EWp7a8Tr9j8_alFV93L6k4-oE_w&usqp=CAU" group-title="DEPORTES", Movistar deportes 2
+http://37894157592538680.ofsix0405.xyz:80/play/fe94136/tGFetHT7kC/538680.ts
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIY1rkjN7EWp7a8Tr9j8_alFV93L6k4-oE_w&usqp=CAU" group-title="DEPORTES", Movistar deportes 3
+http://892814558120538684.of51.xyz:80/live/vi37470/Ue3NyacXpdyG/538684.ts
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpMIWuJq2w7Q6-BrDAbJUpKKgyPxO_UC5rZQ&usqp=CAU " group-title="DEPORTES",Movistar+ liga de campeones 1
+http://89143844886165358.tkop413.xyz:80/play/he425454/sbPAXG7T76j/165358.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpMIWuJq2w7Q6-BrDAbJUpKKgyPxO_UC5rZQ&usqp=CAU "group-title="DEPORTES",Movistar+ liga de campeones 3
+http://57847405885282469.tkop413.xyz:80/play/vi37470/Ue3NyacXpdyG/282469.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpMIWuJq2w7Q6-BrDAbJUpKKgyPxO_UC5rZQ&usqp=CAU "group-title="DEPORTES",Movistar+ liga de campeones 2
+http://daleplay.club:8080/AplustvQny94/ZETXLWtUZPgP/147937
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1VAXi3tRAcLnsF1Ht9eJgPvMeZppog1Kr6A&usqp=CAU" group-title="DEPORTES", Movistar golf
+http://423213770380268095.napgoto413.xyz:80/live/hu124162/3gt9Mmu7dTq7/268095.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/LaLiga_Hypermotion_V.svg/revision/latest/scale-to-width-down/250?cb=20230704145241"group-title="DEPORTES",la liga Hypermotion
+http://19856455498571903.ofgh525.xyz:80/live/KW2JTEKDBV/xPG84M7xaNk4/571903.ts
+#EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/0/01/LaLiga_Hypermotion_V.svg/revision/latest/scale-to-width-down/250?cb=20230704145241 "group-title="DEPORTES",la liga Hypermotion 1
+http://147528958877320790.ofx508.xyz:80/live/vi37470/Ue3NyacXpdyG/320790.ts
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQc6KYOae8Xzv_kiZa_1WmfGqONQ7fqDxO_A&usqp=CAU " group-title="DEPORTES", Gol Peru Liga1 (peru)
+http://alfatv.lat:2082/diego270903/diego270903/234942
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMebl_S3gveLZScHsRj-k1ga8vSztmXl4v8A&usqp=CAU " group-title="DEPORTES", liga 1
+http://tvbross.com:8090/comandoalmache/almache2022../140577
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeJiK8PhVRpAUSenKIIf8LkmpXQvjQC9nneA&usqp=CAU " group-title="DEPORTES", liga 1 max
+http://galaxypro.online:8080/GingerAndrade1311/0984789890GA/103257
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHAV2Wc5gz_bTziF1wEInmbibm5R4Ac4Jzw&usqp=CAU "group-title="DEPORTES",Dazn la liga
+http://daleplay.club:80/play/5r6aT5WQMpM9T7RdHOxEax0_CiqWsA_4aPPn33DsWrqnfzWqJxXoLQagWeY3HyCM/ts
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHAV2Wc5gz_bTziF1wEInmbibm5R4Ac4Jzw&usqp=CAU" group-title="DEPORTES",Dazn la liga 1
+http://527075722741320792.ofds0328.xyz:80/play/ja810198/NT3W3crnGm/320792.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7VLQqdLlZSYcAGJ1Cwnn0QZK6mPeaCA2c3A&usqp=CAU"group-title="DEPORTES",Dazn liga Femenina 
+http://tritonblack.tel:8880/Avelino24/yx4hNgujFrVR8FP/237846
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZ5UTCOeWgHCSzTtzIG74Qrl-0duXJhd0Rg&usqp=CAU" group-title="DEPORTES",DAZN  1
+http://pltvsu.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/233328
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6s1BLWLYnoUikuNzPhbykMsM3PUsvIQyFLQ&usqp=CAU" group-title="DEPORTES",DAZN  2
+http://tv.soccerplus.link:8000/andresmiranda/DTp1CZJ98f/90074
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0Q5HnlJ3eFkY1KKrgon15sJooJ_0CThmqg&usqp=CAU" group-title="DEPORTES",DAZN 3
+http://286369958153228392.napgoto413.xyz:80/play/vi37470/Ue3NyacXpdyG/228392.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1r0GoAXkFdpOepIYHWjyZ3NZtL2tj0HZQMQ&usqp=CAU" group-title="DEPORTES",DAZN 4
+http://286369958153228396.napgoto413.xyz:80/play/vi37470/Ue3NyacXpdyG/228396.ts
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLt4RZ_1QOupYwN8NGj1d3lrWZ58y94i1Abg&usqp=CAU " group-title="DEPORTES", vtv plus (uruguay)
+http://daleplay.club:80/CompaBel24/4499xtream/52836.ts
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="DEPORTES",WIN SPORTS (colombia)
+http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9iUKf7e6EdC0sGXXNhraCLOo77y0YWMamQ&usqp=CAU" group-title="DEPORTES", WIN SPORT+ (colombia)
+http://200.59.188.3:8000/play/a028
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9iUKf7e6EdC0sGXXNhraCLOo77y0YWMamQ&usqp=CAU" group-title="DEPORTES", WIN SPORT+ opc.2 (colombia)
+http://tvbross.com:8090/Inter_Jomy2023/yeAUn7PKe8/2525
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQwHeLnMs3YHa5BgBywGnhhZhhK5G1uKPR3w&usqp=CAU " group-title="DEPORTES",  ESPN (argentina)
+http://tv.proyectox.vip:8080/Hidr13odemsww/nTAuRWcTmD/166827
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwWIvd6k63Amy4juhuAJvKh7tkX_Ca7apbQ&usqp=CAU " group-title="DEPORTES",  ESPN 2 (argentina)
+http://tvbross.com:8090/mBEic2w7BZ/nuDwNNJLE8/18192
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCnorejxWH1BID3ZLCbUboqyO1-vjhBMgQw&usqp=CAU " group-title="DEPORTES",  ESPN 3 (argentina)
+http://217.182.213.252:8080/play/hls/eyJpdiI6IkpHSE9TOVVyUFZLSnlHUEl3RHcxc0E9PSIsInZhbHVlIjoiVjdDTDZGREtIdGJUTHVrczUvRVMyUVJ0Z2JMUDZjemlNN0pZcSt0M0Z6WEVXaGhpTXowenJsUVpIK1VrcVZ2byIsIm1hYyI6ImYzZWZkNTI5MWE2Y2I3ODg1Njc5OGEwNTVmNGVmODJlYjdiYTJjNmY4YzcxZDJmOTc0MWU3ZDIwY2IxZGQ1ODIiLCJ0YWciOiIifQ==/6d068831-b2ec-4dee-b555-bcfc801b32f0.m3u8?lvtoken=eyJpdiI6InZENzlGNDFvejdoT0VsOS9MMzV5OHc9PSIsInZhbHVlIjoibzFzNGZ5L09uYkd5a2NsK2hYSTBOSmdBc1NqRzdvaG9VWHZYQ1hZSFNzWkZaRlF4UkRnTFhGV1lhZ1JSWGJWdEtUUFlkckR2RlM5a3hxSjVhNW1kclhURHFHMlB3dkZOWnBZM2NDWldyMzcrVzc1QllUUmtjUzhEWTJNTDFpUDBFNWhWUCtDNUxBMVRTTUFZZGxEMDZXd3pjbDZnYnhyb3B1elY1OVd2TlBpd2RrUkpjK29paUZlak1md3A1OWkxVXhiWlVDUFRiRWFZNTJDRFlTUnBKUT09IiwibWFjIjoiNzIwMjk2ZThkNzVkNmY3MjZmMTNlNjE5YzRjYjEzNjYxZTU4OTZkMDBhOTZmMDFiMzkzNGM4NjRmYjEyZDFmNCIsInRhZyI6IiJ9&r=693940&rt=d4f1f59876ba91f22fdf65c72064c53c
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2bYlpkE5-tqhYrNatyYCuVdNpV5F5-YdGZA&usqp=CAU " group-title="DEPORTES",  ESPN Premium (argentina)
+http://tvbross.com:8090/mBEic2w7BZ/nuDwNNJLE8/47185
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiK6YFYatR_bqQWe0x62EewJ2SQsoDYWySbA&usqp=CAU " group-title="DEPORTES",  Fox Sports 2 (argentina)
+http://lobo-tv.live:8080/rhin0xCPwow/yXtqbNNtmzaqU/10957
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNYL0s4wVkOl0XOSkcS0UgEPguLc-_WxZMFg&usqp=CAU " group-title="DEPORTES", Fox Sports 3 (argentina)
+http://tv.soccerplus.link:8000/andresmiranda/DTp1CZJ98f/34589
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZHIRY87FCdZ78fmGdSHN1zIRApUP-Le_uw&usqp=CAU"  group-title="DEPORTES", TyC Sports (argentina)
+http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181747
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdJC5xBIRwcpgZS-cpdXcVTOowFGDSqhxzrw&usqp=CAU" group-title="DEPORTES", TyC Sports play (argentina)
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk56fDBqBbFatAYrQLG9XNQXSdSehcqUpndg&usqp=CAU" group-title="DEPORTES",  TNT Sports (argentina)
+http://tvbross.com:8090/mBEic2w7BZ/nuDwNNJLE8/37542
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsDmpWpg6IgDzCc0QzHfvxLGjWHy_66Q5yIQ&usqp=CAU " group-title="DEPORTES", TNT Sports Premium (chile)
+http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57160
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeW1-tqTXE17GxRU46kSqZTYauLUIAARODoA&usqp=CAU" group-title="DEPORTES", TNT Sports 2 (chile)
+http://854028012115848149.ofk0601.xyz:80/live/MFCiptv2023.7/dFxQTA3KYGWX/848149.ts
+#EXTINF:-1 tvg-logo=" https://downloadr2.apkmirror.com/wp-content/uploads/2022/12/67/639cf6223c8b6-384x384.png " group-title="DEPORTES", TNT estadio sports (chile)
+http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57154
+#EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TUDN.png"  group-title="DEPORTES",  TUDN
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png"  group-title="DEPORTES",  TUDN usa
+http://tvmate.icu:8080/Alan/Alan1234/82241
+#XTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkdVu2jtPYYOuh8_wxqfeORrFNafIzgsWSmA&usqp=CAU"group-title="DEPORTES",  Teledeporte
+https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWSQ9I0ATqz6S2S1GRDXIyxVZwZLjU2soxrQ&usqp=CAU" group-title="DEPORTES",   Eurosport 2
+http://892814558120828362.of51.xyz:80/live/vi37470/Ue3NyacXpdyG/828362.ts
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRXyzrdFhlQ9R2FeJdnFf6ZG-8f71y7pq81uQ8_RyceA&s " group-title="DEPORTES", azteca deportes (México)
+http://tv.proyectox.vip:8080/Hidr13odemsww/nTAuRWcTmD/180062
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN 1-0 R-EX
 http://38.41.8.1:8000/play/a07r
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png"group-title="DEPORTES",ESPN 1-4 R-EX
