@@ -475,15 +475,15 @@ https://streamyes.alsolnet.com/esportsmax/live/.m3u8
 DEPORTES
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png"group-title="COPA AMERICA",AR: DIRECTV SPORTS
 http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/468
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQCNx8Mcyjs2Nrmc5JChTfbGNcnV7hiyFjQ&usqp=CAU" group-title="DEPORTES",AR: DIRECTV SPORTS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQCNx8Mcyjs2Nrmc5JChTfbGNcnV7hiyFjQ&usqp=CAU" group-title="COPA AMERICA",AR: DIRECTV SPORTS
 http://tv.proyectox.vip:8080/userfruto1/H2m3De4aMA/358817
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png" group-title="COPA AMERICA",AR: DIRECTV PLUS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQCNx8Mcyjs2Nrmc5JChTfbGNcnV7hiyFjQ&usqp=CAU" group-title="COPA AMERICA",AR: DIRECTV PLUS
 http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzXIQ44e3FJLxqKdO0oG3odc/ts
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/02ac8688819595.Y3JvcCwyODc2LDIyNTAsNTYyLDA.png" group-title="COPA AMERICA",AR: TyC Sports
 http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181747
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/554118438222708736/1wctE9K6_400x400.png" group-title="COPA AMERICA",PA: TVMAX
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="COPA EURO",US: TUDN
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="COPA AMERICA",US: TUDN
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="COPA AMERICA",MX: TUDN
 http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/24941
