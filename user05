@@ -473,16 +473,22 @@ DEPORTES
 https://jeinzmacias339.s3.us-west-2.amazonaws.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="COPA AMERICA",ECUADOR VS VENEZUELA
 https://jeinzmacias330.s3.eu-west-1.amazonaws.com/hls/0/stream.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png"group-title="COPA AMERICA",AR: DIRECTV SPORTS
-http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/468
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQCNx8Mcyjs2Nrmc5JChTfbGNcnV7hiyFjQ&usqp=CAU" group-title="COPA AMERICA",AR: DIRECTV SPORTS
-http://tv.proyectox.vip:8080/userfruto1/H2m3De4aMA/358817
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQCNx8Mcyjs2Nrmc5JChTfbGNcnV7hiyFjQ&usqp=CAU" group-title="COPA AMERICA",AR: DIRECTV PLUS
-http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzXIQ44e3FJLxqKdO0oG3odc/ts
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2384cc64be2f4246a29b7250e1f870c0~mv2.png" group-title="COPA AMERICA",AR: TyC Sports
-http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181747
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/554118438222708736/1wctE9K6_400x400.png" group-title="COPA AMERICA",PA: TVMAX
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png" group-title="COPA AMERICA",AR: DIRECTV SPORTS
+http://tv.proyectox.vip:8080/userfruto1/H2m3De4aMA/358817
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png"group-title="COPA AMERICA",AR: DIRECTV SPORTS
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/468
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQCNx8Mcyjs2Nrmc5JChTfbGNcnV7hiyFjQ&usqp=CAU" group-title="COPA AMERICA",AR: DIRECTV PLUS
+http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzXIQ44e3FJLxqKdO0oG3odc/ts
+#EXTINF:-1 tvg-id="612directv.cl" tvg-name="LAT | DIRECTV SPORTS 2 HD" tvg-logo="http://oaktvpro.club:8080/images/41518b274d35f23dae4857e145b426a1.png" group-title="COPA AMERICA",DIRECTV SPORTS 2 HD
+http://oaktvpro.club:8080/992879023/B2005CC1/7085
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsl8or_Oto1vobff4XCUBHofL2uDkvpTr9Hw&usqp=CAU " group-title="COPA AMERICA",DIRECTV SPORTS 2 HD
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/456658
+#EXTINF:-1 tvg-id="179directv.cl" tvg-name="LAT | DIRECTV SPORTS HD +" tvg-logo="http://oaktvpro.club:8080/images/d405415b6aad35c40dc9c48dde640dcf.png" group-title="COPA AMERICA",DIRECTV SPORTS HD +
+http://oaktvpro.club:8080/992879023/B2005CC1/7086
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2384cc64be2f4246a29b7250e1f870c0~mv2.png" group-title="COPA AMERICA",AR: TyC Sports
+http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181747
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="COPA AMERICA",US: TUDN
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="COPA AMERICA",MX: TUDN
@@ -491,13 +497,13 @@ http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/24941
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="COPA AMERICA",TUDN
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-#EXTINF:-1 tvg-logo="http://oaktvpro.club:8080/images/7de5dc50cdfa328461468862bbd44623.png" group-title="COPA AMERICA",ES | M+ CopaAmerica
+#EXTINF:-1 tvg-logo="http://oaktvpro.club:8080/images/7de5dc50cdfa328461468862bbd44623.png" group-title="COPA AMERICA",ES: M+ CopaAmerica
 http://oaktvpro.club:8080/992879023/B2005CC1/66159
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/movistar-plus-logo-2DFA406BD6-seeklogo.com.png" group-title="COPA AMERICA",ES: M+
+#EXTINF:-1 tvg-logo="http://oaktvpro.club:8080/images/7de5dc50cdfa328461468862bbd44623.png" group-title="COPA AMERICA",ES: M+ CopaAmerica 2
 http://20957968804646234.otjb0606.xyz:80/play/XJAGG3528/KA855743254/646234.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1oI7eHTvRyfmceZ9O8qBleWbuFRGUs16qA&usqp=CAU" group-title="COPA AMERICA", Movistar plus  + Directo
+#EXTINF:-1 tvg-logo="http://oaktvpro.club:8080/images/7de5dc50cdfa328461468862bbd44623.png" group-title="COPA AMERICA",ES Movistar + Directo
 http://985511922102646234.tkop413.xyz:80/play/ja810198/NT3W3crnGm/646234.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpMIWuJq2w7Q6-BrDAbJUpKKgyPxO_UC5rZQ&usqp=CAU "group-title="COPA AMERICA",Movistar+
+#EXTINF:-1 tvg-logo="http://oaktvpro.club:8080/images/7de5dc50cdfa328461468862bbd44623.png" group-title="COPA AMERICA",ES Movistar +
 http://daleplay.club:8080/AplustvQny94/ZETXLWtUZPgP/147937
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/1200px-Repretel_6_logo.png" group-title="COPA AMERICA",CR: CANAL 6
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
@@ -523,12 +529,6 @@ https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_757056202ebc496fb1cdb86090644414~mv2.png"group-title="DEPORTES",BEIN SPORT EXTRA Ñ
 https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
-#EXTINF:-1 tvg-id="612directv.cl" tvg-name="LAT | DIRECTV SPORTS 2 HD" tvg-logo="http://oaktvpro.club:8080/images/41518b274d35f23dae4857e145b426a1.png" group-title="DEPORTES",DIRECTV SPORTS 2 HD
-http://oaktvpro.club:8080/992879023/B2005CC1/7085
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsl8or_Oto1vobff4XCUBHofL2uDkvpTr9Hw&usqp=CAU " group-title="DEPORTES",DIRECTV SPORTS 2 HD
-http://home-playtv.com:8080/powertv/W8LULsPWL9by/456658
-#EXTINF:-1 tvg-id="179directv.cl" tvg-name="LAT | DIRECTV SPORTS HD +" tvg-logo="http://oaktvpro.club:8080/images/d405415b6aad35c40dc9c48dde640dcf.png" group-title="DEPORTES",DIRECTV SPORTS HD +
-http://oaktvpro.club:8080/992879023/B2005CC1/7086
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ LIGA DE CAMPEONES FHD" tvg-logo="http://oaktvpro.club:8080/images/99be91125e2ef4b3c546ae82106adcc1.png" group-title="DEPORTES",M+ LIGA DE CAMPEONES FHD
 http://oaktvpro.club:8080/992879023/B2005CC1/127878
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="ES | M+LIGA DE CAMPEONES HD" tvg-logo="http://oaktvpro.club:8080/images/99be91125e2ef4b3c546ae82106adcc1.png" group-title="DEPORTES",ES | M+LIGA DE CAMPEONES HD
@@ -539,27 +539,12 @@ http://oaktvpro.club:8080/992879023/B2005CC1/66156
 http://oaktvpro.club:8080/992879023/B2005CC1/66157
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="ES | M+LIGA DE CAMPEONES 2 FHD" tvg-logo="http://oaktvpro.club:8080/images/7de5dc50cdfa328461468862bbd44623.png" group-title="DEPORTES",ES | M+LIGA DE CAMPEONES 2 FHD
 http://oaktvpro.club:8080/992879023/B2005CC1/66158
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-name="ES | M+LIGA DE CAMPEONES 3" tvg-logo="http://oaktvpro.club:8080/images/7de5dc50cdfa328461468862bbd44623.png" group-title="DEPORTES",ES | M+LIGA DE CAMPEONES 3
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-name="ES | M+LIGA DE CAMPEONES 3" tvg-logo="http://oaktvpro.club:8080/images/7de5dc50cdfa328461468862bbd44623.png" group-title="COPA AMERICA",ES | M+LIGA DE CAMPEONES 3
 http://oaktvpro.club:8080/992879023/B2005CC1/66160
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-name="ES | M+LIGA DE CAMPEONES 3 HD" tvg-logo="http://oaktvpro.club:8080/images/7de5dc50cdfa328461468862bbd44623.png" group-title="DEPORTES",ES | M+LIGA DE CAMPEONES 3 HD
 http://oaktvpro.club:8080/992879023/B2005CC1/66161
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ LIGA DE CAMPEONES HD" tvg-logo="http://oaktvpro.club:8080/images/99be91125e2ef4b3c546ae82106adcc1.png" group-title="DEPORTES",M+ LIGA DE CAMPEONES HD
 http://oaktvpro.club:8080/992879023/B2005CC1/93024
-
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXa1FdkQBzgOgx_1o5BMm60su9RQ0HkiZ1ag&usqp=CAU " group-title="DEPORTES",Bein sport ñ
-http://31.42.185.158:8000/5527574227/TJNFVOGBLe/126452
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA1J-zJ-_t8vDy8Nvoir4sxJxW8czsd86QGw&usqp=CAU " group-title="DEPORTES",Real Madrid 
-https://dashtvcloud.online:8443/josealbrook/panama121/144345
-#EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/4/4c/LaLigaTV_2_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230708175335 " group-title="DEPORTES",Movistar 4TV la liga2
-http://928938401126165398.ofsd5513.xyz:80/live/Sue23/Alv10/165398.ts
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/f9y6oe1692444384.png"group-title="DEPORTES",Movistar 4TV BAR la liga
-http://ferelmasgrande.hopto.org:8080/saray1/saray1/594244
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1T-Hpcixb1LVj3Wa8IaqUIc89a3o4y5B3dRNW5uir-g&s " group-title="DEPORTES", sky sport la liga (México)
-https://dashtvcloud.online:8443/josealbrook/panama121/144286
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEwQCGDpywup6nY7W6wZAyuOqE45RA9DSLqA&usqp=CAU"group-title="DEPORTES",Vix Premium la liga
-http://tvbross.com:8090/1uzBQuF2FQ/jtFm50oNx0/159347
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJpIevXtFDFMKFaTZZDK_2mX50mW6JdmVxyQ&usqp=CAU"group-title="DEPORTES",Vamos Multivision+
-http://254002975550321072.ofx508.xyz:80/live/fe94136/tGFetHT7kC/321072.ts
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png "group-title="DEPORTES",Movistar la liga1
 http://26133922272165392.ofsd5513.xyz:80/live/ja810198/NT3W3crnGm/165392.ts
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png "group-title="DEPORTES",Movistar la liga1
@@ -574,6 +559,20 @@ http://89143844886165358.tkop413.xyz:80/play/he425454/sbPAXG7T76j/165358.ts
 http://57847405885282469.tkop413.xyz:80/play/vi37470/Ue3NyacXpdyG/282469.ts
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1VAXi3tRAcLnsF1Ht9eJgPvMeZppog1Kr6A&usqp=CAU" group-title="DEPORTES", Movistar golf
 http://423213770380268095.napgoto413.xyz:80/live/hu124162/3gt9Mmu7dTq7/268095.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXa1FdkQBzgOgx_1o5BMm60su9RQ0HkiZ1ag&usqp=CAU " group-title="DEPORTES",Bein sport ñ
+http://31.42.185.158:8000/5527574227/TJNFVOGBLe/126452
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA1J-zJ-_t8vDy8Nvoir4sxJxW8czsd86QGw&usqp=CAU " group-title="DEPORTES",Real Madrid 
+https://dashtvcloud.online:8443/josealbrook/panama121/144345
+#EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/4/4c/LaLigaTV_2_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230708175335 " group-title="DEPORTES",Movistar 4TV la liga2
+http://928938401126165398.ofsd5513.xyz:80/live/Sue23/Alv10/165398.ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/f9y6oe1692444384.png"group-title="DEPORTES",Movistar 4TV BAR la liga
+http://ferelmasgrande.hopto.org:8080/saray1/saray1/594244
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1T-Hpcixb1LVj3Wa8IaqUIc89a3o4y5B3dRNW5uir-g&s " group-title="DEPORTES", sky sport la liga (México)
+https://dashtvcloud.online:8443/josealbrook/panama121/144286
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEwQCGDpywup6nY7W6wZAyuOqE45RA9DSLqA&usqp=CAU"group-title="DEPORTES",Vix Premium la liga
+http://tvbross.com:8090/1uzBQuF2FQ/jtFm50oNx0/159347
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJpIevXtFDFMKFaTZZDK_2mX50mW6JdmVxyQ&usqp=CAU"group-title="DEPORTES",Vamos Multivision+
+http://254002975550321072.ofx508.xyz:80/live/fe94136/tGFetHT7kC/321072.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/LaLiga_Hypermotion_V.svg/revision/latest/scale-to-width-down/250?cb=20230704145241"group-title="DEPORTES",la liga Hypermotion
 http://19856455498571903.ofgh525.xyz:80/live/KW2JTEKDBV/xPG84M7xaNk4/571903.ts
 #EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/0/01/LaLiga_Hypermotion_V.svg/revision/latest/scale-to-width-down/250?cb=20230704145241 "group-title="DEPORTES",la liga Hypermotion 1
