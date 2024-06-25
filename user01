@@ -54,9 +54,15 @@ https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b3ef1a78e9ef40da8532fd54d9234bd7~mv2.png"group-title="BOLIVIA",TV SHOW
 http://tv.istbolivia.com:1935/tvshow/tvshow/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_cf58f498b34647bc81d3a5338d7a09e5~mv2.png"group-title="BOLIVIA",SEO TV FHD
-https://seo.tv.bo/tv/ATV_1FHD.m3u8
+https://seo.tv.bo/tv/SETV_1FHD.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_01c06c256ece4517b98ea8c3cfddc1eb~mv2.png"group-title="DEPORTES",SEO TV DEPORTES
-https://seo.tv.bo/tv/Btv_5sd.m3u8
+https://seo.tv.bo/tv/SEtv_5sd.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_01c06c256ece4517b98ea8c3cfddc1eb~mv2.png"group-title="DEPORTES",SEO TV DEPORTES
+https://seo.tv.bo/tv/SEtv_5B.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_3ede3ab9e5b64ddcb6ba215a1caf6c91~mv2.png"group-title="BOLIVIA",SEO PELICULAS
+https://seo.tv.bo/tv/SETV4_HD.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_280acad52b99492b8531d4949808a04d~mv2.png"group-title="BOLIVIA",SEO TV NOVELAS
+https://seo.tv.bo/tv/SETV3.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_a69f7bc3b7374fd780d55884f220ccee~mv2.png"group-title="INFANTILES",Gogo Play
 https://ssh101-fl.bozztv.com/ssh101/gogoplay/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_29009bebb8d6496ab2618651f1966ce1~mv2.png"group-title="INFANTILES",MIX BOLIVIA TV
@@ -242,6 +248,10 @@ https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/a
 http://181.78.105.146:2000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c3dadb1ffff74982a54d9aaa852104ba~mv2.png"group-title="VARIEDADES",TLNovelas
 http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7342d96a56b849d187276da30b26c23d~mv2.png"group-title="VARIEDADES",UNIVISIÓN HD
+http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304306
+#EXTINF:-1 tvg-logo="https://canalesenvivo.neocities.org/ImagenesWeb/logoRcn.png"group-title="VARIEDADES",RCN
+http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181770
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b2d477c8888b4167b0ab208465af0b6b~mv2.png"group-title="VARIEDADES",RCN Novelas R-EX
 http://38.41.8.1:8000/play/a070
 #EXTINF:-1 tvg-logo="https://rcn-images.ercdn.net//content/v/Vr/2128/Logo.png?v=638240718056256153"group-title="VARIEDADES",RCN EXTRA
@@ -249,7 +259,9 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="VARIEDADES",RCN Más
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5fbe403cd58d44ca9a88d1be6ce8fd7b~mv2.png"group-title="VARIEDADES",TELEMUNDO INTERNACIONAL
-http://home-playtv.com:8080/powertv/W8LULsPWL9by/199197 
+http://rasaiptv.com:8080/amartinez/s1stemas.13579/114358
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5fbe403cd58d44ca9a88d1be6ce8fd7b~mv2.png"group-title="VARIEDADES",TELEMUNDO INTERNACIONAL
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/199197
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5fbe403cd58d44ca9a88d1be6ce8fd7b~mv2.png"group-title="VARIEDADES",TELEMUNDO HD
 http://160.20.165.245:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5fbe403cd58d44ca9a88d1be6ce8fd7b~mv2.png"group-title="VARIEDADES",TELEMUNDO HD
@@ -470,6 +482,10 @@ https://streamyes.alsolnet.com/esportsmax/live/.m3u8
 
 DEPORTES
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="COPA AMERICA",Jeinz MaciasTV
+https://jeinzmacias2.s3.us-west-2.amazonaws.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="COPA AMERICA",Jeinz MaciasTV
+https://jeinzmacias1.s3.us-west-2.amazonaws.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="COPA AMERICA",Jeinz MaciasTV
 https://jeinzmacias355.s3.us-west-2.amazonaws.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="COPA AMERICA",Jeinz MaciasTV
 https://jeinzmacias330.s3.eu-west-1.amazonaws.com/hls/0/stream.m3u8
@@ -494,8 +510,8 @@ https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="COPA AMERICA",MX: TUDN
 http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/24941
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="COPA AMERICA",MX: TUDN
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="COPA AMERICA",TUDN
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/553
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="COPA AMERICA",MX: TUDN
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1 tvg-logo="http://oaktvpro.club:8080/images/7de5dc50cdfa328461468862bbd44623.png" group-title="COPA AMERICA",ES: M+ CopaAmerica
 http://oaktvpro.club:8080/992879023/B2005CC1/66159
@@ -515,6 +531,39 @@ http://tv.soccerplus.link:8000/julia35a/anticona34/868
 http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1796645648483196928/Bq_OpQ9A_400x400.jpg" group-title="COPA AMERICA",PY: UNICANAL
 https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/chunklist_w984880022.m3u8?k=6980c82cf2f8826ebe702b27cedaa8378ce91c44410783288cd05392ba49f8e1&exp=1718557383
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png" group-title="COPA AMERICA",UY: TV CIUDAD
+https://sdmx.vip:443/belpley/sYqKZQrTZa/2055403.ts
+#EXTINF:-1 tvg-logo="h" group-title="COPA AMERICA",MX: CALIENTE TV
+https://ythls-v3.onrender.com/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
+#EXTINF:-1 tvg-logo="h" group-title="COPA AMERICA",MX: FUTBOL 1
+https://linear-439.frequency.stream/mt/studio/439/hls/master/playlist.m3u8
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
+
+#EXTINF:-1 group-title="COPA EURO",US: TUDN
+https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="COPA EURO",AR: ESPN
+http://170.82.37.21:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="COPA EURO",AR: ESPN
+http://181.78.8.90:16123/play/ch16
+#EXTINF:-1 group-title="COPA EURO",AR: ESPN SD
+http://200.60.124.19:29000/play/a016/index.m3u8
+#EXTINF:-1 group-title="COPA EURO",SV: CANAL 4
+https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
+#EXTINF:-1 group-title="COPA EURO",EURO MX: CANAL 5
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
+#EXTINF:-1 group-title="COPA EURO",EURO ES: LA 1
+https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
+#EXTINF:-1 group-title="COPA EURO",EURO ES: LA 2
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/117156
+
+#EXTINF:-1 group-title="DEPORTES LA LIGA", LA LIGA 01
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LA LIGA", LA LIGA 02
+https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES LA LIGA", LA LIGA 03
+https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5c57e568a44842289c5aeb4855c57d36~mv2.png"tvg-group="DEPORTES",CLARO SPORTS
 http://38.41.8.1:8000/play/a050
 #EXTINF:-1 tvg-logo="https://new.tvpublica.com.ar/wp-content/uploads/2021/05/DeporTVOK-300x225.jpg"group-title="DEPORTES",DEPORTV
