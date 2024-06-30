@@ -109,8 +109,6 @@ https://live.obslivestream.com/planetatv/index.m3u8
 https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b7a32e5144ac48f1bbfc2e123af6e924~mv2.png"group-title="COP-A COP-E",AMERICA TV HD
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/americatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b7a32e5144ac48f1bbfc2e123af6e924~mv2.png"group-title="COP-A COP-E",AMERICA TV HD
-https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b7a32e5144ac48f1bbfc2e123af6e924~mv2.png"group-title="COP-A COP-E",AMERICA TV SD
 http://177.53.155.236:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ba36e36407a4419eb9e4f38d8a43e0b7~mv2.png"group-title="VARIEDADES",LATINA HD
@@ -582,12 +580,10 @@ https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 https://streamyes.alsolnet.com/esportsmax/live/.m3u8
 
 DEPORTES
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="COP-A COP-E",Jeinz MaciasTV1
-https://jeinzmacias25.s3.us-west-2.amazonaws.com/hls/0/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="COP-A COP-E",Jeinz MaciasTV2
-https://jeinzmacias25.s3.us-west-2.amazonaws.com/hls/0/stream.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_de86d4fb08cd4c808686580aea726101~mv2.png"group-title="COP-A COP-E",PE: Contacto TV
-https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="COP-A COP-E",Jeinz MaciasTV01
+https://video-weaver.scl01.hls.live-video.net/v1/playlist/CskFsmrwz5dph8AJYXR8W6GqpGOd5SfLihcx5b4BOSzw5fGkL72RPB8oSxSKucrw0ml5tqfynB5AdA-pXfYSX4APXOZfcnQQhZk4nllJITKPHQtO_ncEt-VtvxXvPp8xhOqH20PH4nzAZHKVAvHXNmwFfkhVONQ1dJ1CDzNZG0GHpdVzvRCHbEQcTE39acmwPpVSLg1DhHu2mZNC-v9KUdgAcxhWtEFzK5nWF3YsbBkK0OdQFzlZS31EN3J8_cK2NVLNw-w-XJSdMNhxkLWPYaiji0_ak50REs7IuviXVUGFWW8tsmIZ341JAUnyy57hDcEmpLgZoeGDbuM5ByybqH3ZjPm01n4ul0KhcuH_gWS19MmrDOAcGDaO-iG5Xr0uuRBLG_09IfHs7WYQnFDPwoEXH7XxinZmHNYyr_AYWeGDDD63WhNIcQRK6XmM5HgSY22iPDYb4gBvYcM65eGXlQYh9dswxxKih5j5Nv_m7jW1q3axZM1eJemceT0iiXWkbjKQBN2AnmJkEYTR9DdcKcZ7JezZtMozSGst1i5oc3jpx0Ly3WbvJ_JOOFJmh9Xp43gqPWTvTcVuo9-DcWQLDmwvmKpMhS7nCzgp5CF6IMiy3_0YH4LYosKf92r4Z8qWUGM_E8JuS9JOVfXy2UYEnKFpJViCsqoAm4Cy4P226QAZrnxJZuE_Gq_m_5Hgf4vf0xqsZybv9-OSNiNfcyCzroaOpdSVsckihtbLOrNmW4-08ebr7PPkVbhSRnR15N3SxoFOoHcJVTKonCtNwRdHKa94Am--vDIUeNfL5pBZuHPAWJAdppVL7FGz3aHQUtQZPXDj-tmqVSHdsJ9PUmNvJveacP-3ns6KiJpx6W75xrRowB0s0X-T6oak9yA_tTkObmwSYnrD38g5IAHvr5AND2K4RGgOMzwMtFnfPT4lAMkI4RZ2JVtoALBRzRYaDK3CgNvD16w1THZTZSABKgl1cy1lYXN0LTEwmwg.m3u8
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="COP-A COP-E",Jeinz MaciasTV02
+https://video-weaver.sao05.hls.live-video.net/v1/playlist/CskFRajEFNBUCqTv4py0HIxkWc0-mqXBgTBxIH5iCIoOzmmBTxRFOK6ekREWiOxWZ5jFlFbb53UA1k3YTXblqZK0xHHdARuT98M25Om706rhwbd2fqYSPqXxs2Ba8X3SukGEAo3udeMqD2kqF5pUXUpzE0km1Rr_mYNrVk9PpZGyR7wUkZF3j8t0OQBFqwT2swF9tQqErdkBYLOSc4F3mQM1K-V2COmQHhlaW2yT2o_IFMeSLz0gbYTBK5OSOo53wOAVfOZSOyxOF3oJ5S7LPBF2zXrsX7cpRys4nDWf6QrLOAfxW17ks7wprOWluI512rRQv4c-35NCXyd6zsW7pFxB1htOuPs1nvu-Zv_xQFbgQovNUHAnWiDNn-_D8jtAqXGMk5D4_nisxAKqMVtCBBMbpyvxDL4oMgfNJvXBSovS4CwAROKQJ0CYiytBwK1admRi40gEqeB7R8qkpW2Us6w4Q2UM7XgaCpwNwEUXmkx4tGmHX77WYXuZ2vQNM40OictVXnVeSAok6tlUio2dY3bosze6UNlq7RZpybx-QPSDETyBdg_9BqFgHZyufJ7y1rLWptftNs2Iebp-RMhQkqsBpvFfPpvvDyJVNRq-9TA1TeKmzHqsMxQBgYoyuCMejF9tP444F_XFNwxqJHvxkCQtWbiKU_bjbmLGJrSQSIIgkvzrfoNcSPi5GOi8uWDuBZo79JFkpk4mONKUWI2NSZtFqrypiymNNQvF6R6wfEFY2k5Kl702_SIrGSov0UlY56egCzvCN7xhJJKff9EFHERv62hc8WwABI5GZlCeue2ug_vI92kGXcQvSnrAyFdLL1fBw4PAsr88rlWKrY6Dia2bJTA8rVORK71DESuEAf48rzaVmsn-WYWpcpJtICD_PK8OWvss5_up2Rieo26uk8t26m4MC-E73afUWPQT3N-6FL_BvdJYCeHwNiUaDL1wo83d9LDB3LxuqiABKgl1cy1lYXN0LTEwmwg.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7342d96a56b849d187276da30b26c23d~mv2.png"group-title="COP-A COP-E",UNIVISIÓN CD
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/114358
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7342d96a56b849d187276da30b26c23d~mv2.png"group-title="COP-A COP-E",UNIVISIÓN CD
@@ -611,15 +607,11 @@ http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/454718
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png" group-title="COP-A COP-E",TyC Sports 2
 http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/2076
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png" group-title="COP-A COP-E",AR: DIRECTV SPORTS
-http://tv.proyectox.vip:8080/userfruto1/H2m3De4aMA/358817
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png" group-title="COP-A COP-E",AR: DIRECTV SPORTS
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/456660
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png" group-title="COP-A COP-E",AR: DIRECTV SPORTS
 http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/154273
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png" group-title="COP-A COP-E",MX: DIRECTV SPORTS
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/456659
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQCNx8Mcyjs2Nrmc5JChTfbGNcnV7hiyFjQ&usqp=CAU" group-title="COP-A COP-E",AR: DIRECTV PLUS
-http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzXIQ44e3FJLxqKdO0oG3odc/ts
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png" group-title="COP-A COP-E",DIRECTV SPORTS
 http://181.78.105.146:2000/play/a095/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png" group-title="COP-A COP-E",DIRECTV SPORTS
@@ -628,7 +620,6 @@ http://181.78.105.146:2000/play/a096/index.m3u8
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/456658
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsl8or_Oto1vobff4XCUBHofL2uDkvpTr9Hw&usqp=CAU " group-title="COP-A COP-E",DIRECTV SPORTS 2 HD
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/456658
-
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsl8or_Oto1vobff4XCUBHofL2uDkvpTr9Hw&usqp=CAU " group-title="COP-A COP-E",DIRECTV SPORTS 2 
 http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/963
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsl8or_Oto1vobff4XCUBHofL2uDkvpTr9Hw&usqp=CAU " group-title="COP-A COP-E",DIRECTV SPORTS 2
@@ -647,6 +638,10 @@ http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/352478
 https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/0/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4N481KNM/Dsports-Motors.png"group-title="COP-A COP-E",TVGO PLAY
 http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/20143
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png" group-title="COP-A COP-E",AR: DIRECTV SPORTS
+http://tv.proyectox.vip:8080/userfruto1/H2m3De4aMA/358817
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQCNx8Mcyjs2Nrmc5JChTfbGNcnV7hiyFjQ&usqp=CAU" group-title="COP-A COP-E",AR: DIRECTV PLUS
+http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzXIQ44e3FJLxqKdO0oG3odc/ts
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="COP-A COP-E",AR:TUDN
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/456664
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="COP-A COP-E",AR:TUDN
@@ -752,7 +747,8 @@ https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/in
 https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_13.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png" group-title="COP-A COP-E",AR | Tyc Play 8
 https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index_14.m3u8
-
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_de86d4fb08cd4c808686580aea726101~mv2.png"group-title="COP-A COP-E",PE: Contacto TV
+https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png"group-title="COP-A COP-E",AR | Telefe Deportes
 https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://www-storage.13.cl/c13/push-notifications/d13.jpg"group-title="COP-A COP-E",CL | D13
