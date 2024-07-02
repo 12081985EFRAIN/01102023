@@ -1,40 +1,46 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="BOLIVIA",Bolivision
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/480p.m3u8
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="BOLIVIA",Bolivision
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online-218x150.png"group-title="BOLIVIA",BOLIVISION
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b625f057064b4003a574d95931b1466e~mv2.png"group-title="BOLIVIA",Atesur Canal 39
-https://video2.getstreamhosting.com:19360/8038/8038.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvusucre.com/images/Cabeza-logo.png"group-title="BOLIVIA",TVU Sucre
-https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0ea3704fc09d442d9ce73abe8315b084~mv2.png"group-title="BOLIVIA",UNITEL
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5833fc7fc596498a828dac4212765aee~mv2.png"group-title="BOLIVIA",RED UNO
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7edb0d_d1833980ee254bab930765141048dce9~mv2.jpg"group-title="BOLIVIA",GIGAVISION
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/GIGAVISION/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7edb0d_d1833980ee254bab930765141048dce9~mv2.jpg"group-title="BOLIVIA",GIGAVISION
-https://master.tucableip.com//gigavision/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9c274d50cbac4c7e8850a628ae76b320~mv2.png"group-title="BOLIVIA",TV CULTURAS
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVCULTURA/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c9cb4ff278c241a397b837f6a72fdf3c~mv2.png"group-title="BOLIVIA",PAT
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_fee949fca334433585d957e7c23b1d5d~mv2.png"group-title="BOLIVIA",RTP
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/RTP/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d2bd23103be841a0896855d8ea5f08f6~mv2.png"group-title="BOLIVIA",AbyaYala
-https://master.tucableip.com/abyayalatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ATBBo2020Logo.png/150px-ATBBo2020Logo.png"group-title="BOLIVIA",ATB
 http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ATBBo2020Logo.png/150px-ATBBo2020Logo.png"group-title="BOLIVIA",ATB SC
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb-1024x278.png"group-title="BOLIVIA",CadenaA
-https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w319019668.m3u8
-#EXTINF:-1 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb-1024x278.png"group-title="BOLIVIA",CadenaA SC
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d2bd23103be841a0896855d8ea5f08f6~mv2.png"group-title="BOLIVIA",AbyaYala
+https://master.tucableip.com/abyayalatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0ea3704fc09d442d9ce73abe8315b084~mv2.png"group-title="BOLIVIA",UNITEL
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5833fc7fc596498a828dac4212765aee~mv2.png"group-title="BOLIVIA",RED UNO
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c9cb4ff278c241a397b837f6a72fdf3c~mv2.png"group-title="BOLIVIA",PAT
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_fee949fca334433585d957e7c23b1d5d~mv2.png"group-title="BOLIVIA",RTP
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/RTP/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg"group-title="BOLIVIA",BoliviaTV 7.1
 http://boliviatv1.srfms.com:5735//live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg"group-title="BOLIVIA",BoliviaTV 7.2
 https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w1024154521.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c5099ed6e9154c9fa4786b43ab6b2c30~mv2.png"group-title="BOLIVIA",F10 HD
+https://video.live.com.bo:3099/live/f10hdlive.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7edb0d_d1833980ee254bab930765141048dce9~mv2.jpg"group-title="BOLIVIA",Gigavision
+https://master.tucableip.com//gigavision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7edb0d_d1833980ee254bab930765141048dce9~mv2.jpg"group-title="BOLIVIA",GIGAVISION
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/GIGAVISION/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ed707b447b544df787e87800347e2bab~mv2.png"group-title="BOLIVIA",Imperial Televisión
+https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
+#EXTINF:-1 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb-1024x278.png"group-title="BOLIVIA",Cadena A
+https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w319019668.m3u8
+#EXTINF:-1 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb-1024x278.png"group-title="BOLIVIA",CADENA A SC
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9c274d50cbac4c7e8850a628ae76b320~mv2.png"group-title="BOLIVIA",TV CULTURAS
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVCULTURA/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b3ef1a78e9ef40da8532fd54d9234bd7~mv2.png"group-title="BOLIVIA",TV SHOW
+http://tv.istbolivia.com:1935/tvshow/tvshow/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b625f057064b4003a574d95931b1466e~mv2.png"group-title="BOLIVIA",Atesur Canal 39
+https://video2.getstreamhosting.com:19360/8038/8038.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvusucre.com/images/Cabeza-logo.png"group-title="BOLIVIA",TVU Sucre
+https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_800d3c7095b04532bf4f976a540bd8a4~mv2.png"group-title="BOLIVIA",FTV HD
 https://master.tucableip.com/ftv/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/logo-tvlatina.png"group-title="BOLIVIA",TVLatina
@@ -47,32 +53,22 @@ https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
 https://stmvideo3.livecastv.com/aynitv/aynitv/chunklist_w1406337469.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0315c88dab354c459d16d29102f7fe30~mv2.png"group-title="BOLIVIA",CEACOM
 https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_0315c88dab354c459d16d29102f7fe30~mv2.png"group-title="BOLIVIA",CEACOM
-https://eu1.servers10.com:8081/ceacomtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://redcctvbolivia.com/wp-content/uploads/2024/02/Recurso-4.png"group-title="BOLIVIA",Canal Red CCTV
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ebd0393a990f4fe3ba97aff8514fe34f~mv2.png"group-title="BOLIVIA",CVC
-https://5d00db0e0fcd5.streamlock.net/7034/7034/chunklist_w1500290821.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7d5ebeaf237540f3bbdddf31125f1337~mv2.png"group-title="BOLIVIA",CINERAMA
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b3ef1a78e9ef40da8532fd54d9234bd7~mv2.png"group-title="BOLIVIA",TV SHOW
-http://tv.istbolivia.com:1935/tvshow/tvshow/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c5099ed6e9154c9fa4786b43ab6b2c30~mv2.png"group-title="BOLIVIA",F10 HD
-https://video.live.com.bo:3099/live/f10hdlive.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/U47VmnRDhgLjdt3il6T-qGIRgfsdVefCCbhJO6FdtjoRg3wP3a6_Jcg9zKboHqcrpBD-5hwGug=s88-c-k-c0x00ffffff-no-rj"group-title="BOLIVIA",Tu TV
+#EXTINF:-1 tvg-logo="https://tutv.com.bo/wp-content/uploads/2023/04/logo-tutv4.png"group-title="BOLIVIA",Tu TV
 https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Fj1NPSYWIAAL6MU?format=png&name=small"group-title="BOLIVIA",Delta Instituto TV
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_06d458141482441b9b0b98192415efcf~mv2.png"group-title="BOLIVIA",Delta Instituto TV
 https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/4GZtRfAZ36H4pyoxz1htoVE46eRt_M9sj2Y56En4h0Neezca7wFMaX7ec2n9sW5zJZo=s180-rw"group-title="BOLIVIA",Coral TV
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7034fe3ea1b943d681d3ec055edc60c6~mv2.png"group-title="BOLIVIA",Coral TV
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/univalletelevision.com/wp-content/uploads/2022/10/282564259_10158977843387405_6403480060241523290_n-removebg-preview1-e1654154741392-edited-1.png?w=500&ssl=1"group-title="BOLIVIA",Univalle TV
 https://master.tucableip.com/univalletv/index.m3u8
 #EXTINF:-1 tvg-logo="https://redencuentro.com/wp-content/uploads/2021/09/logo_rtve_oficial.png"group-title="COP-A COP-E",RTVE Radio TV Encuentro
 https://vdo.grupolimalive.com:3241/live/encuentrotvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hg2PiIn.png"group-title="BOLIVIA",Agenda Minera TV
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_43fa06fe60cc4817af458fc7a993c9dc~mv2.png"group-title="BOLIVIA",Agenda Minera TV
 https://srv.panelcast.net/3600/3600/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/484nloAxV2ZpMByON_Fd8EML3IsxKlGLWTOLL7leqQjuNGaKoYYQk9WFdayVMXxhqmc"group-title="BOLIVIA",Imperial Televisión
-https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_cf58f498b34647bc81d3a5338d7a09e5~mv2.png"group-title="BOLIVIA",SEO TV FHD
 https://seo.tv.bo/tv/SEOTV_1FHD.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_01c06c256ece4517b98ea8c3cfddc1eb~mv2.png"group-title="COP-A COP-E",SEO TV DEPORTES
@@ -93,6 +89,8 @@ https://tv1.mediacp.eu:3661/live/rlbpwxvhlive.m3u8
 http://canaltv.istbolivia.com:1935/vostv/vostv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d661f7c0e3e34fdfb7413e667ef02f1f~mv2.png"group-title="BOLIVIA",Cristal TV
 http://america.tucableip.com/bolivia/cristaltv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ebd0393a990f4fe3ba97aff8514fe34f~mv2.png"group-title="BOLIVIA",CVC
+https://5d00db0e0fcd5.streamlock.net/7034/7034/chunklist_w1500290821.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Xtotv.png"group-title="BOLIVIA",XTO TV
 http://136.243.3.70:1935/XtoTv/XtoTv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png"group-title="NOTICIAS",TELESUR
@@ -482,6 +480,8 @@ https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1972
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_077bb8ded81f480e8de70012f673126d~mv2.png"group-title="INFANTILES",LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-logo="http://animezonetv.net/aztv.png"group-title="INFANTILES",Anime ZoneTV
+http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d4f46d9ef754435bbeb1c43ef92f2da6~mv2.png"group-title="INFANTILES",PLANETA JUNIOR TV
 https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/1200.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d4f46d9ef754435bbeb1c43ef92f2da6~mv2.png"group-title="INFANTILES",PLANETA JUNIOR ITALIANO
@@ -492,6 +492,8 @@ https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 #EXTINF:-1 tvg-id="XtremaSeries.ar" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/07/extrema-kids.jpg" group-title="INFANTILES",Xtrema Kids
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/198xnull/12402/uploads/57b2b251-5ce1-456a-84bd-0d8039df3b5a.png?auto=webp" group-title="INFANTILES",3ABN
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/chunklist_w485828288_b1928000_slen.m3u8?nimblesessionid=110062300
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_6de767f58b2a4fedbae24661b9d1bb8d~mv2.png"group-title="INFANTILES",GOSPEL CARTOON BR
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w718026796.m3u8
 #EXTINF:-1 tvg-logo="https://logostv.es/storage/channels/logo-kids.png"group-title="INFANTILES",LOGOS KIDS
@@ -580,14 +582,14 @@ https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 https://streamyes.alsolnet.com/esportsmax/live/.m3u8
 
 DEPORTES
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="COP-A COP-E",Jeinz MaciasTV01
-https://video-weaver.scl01.hls.live-video.net/v1/playlist/CskFsmrwz5dph8AJYXR8W6GqpGOd5SfLihcx5b4BOSzw5fGkL72RPB8oSxSKucrw0ml5tqfynB5AdA-pXfYSX4APXOZfcnQQhZk4nllJITKPHQtO_ncEt-VtvxXvPp8xhOqH20PH4nzAZHKVAvHXNmwFfkhVONQ1dJ1CDzNZG0GHpdVzvRCHbEQcTE39acmwPpVSLg1DhHu2mZNC-v9KUdgAcxhWtEFzK5nWF3YsbBkK0OdQFzlZS31EN3J8_cK2NVLNw-w-XJSdMNhxkLWPYaiji0_ak50REs7IuviXVUGFWW8tsmIZ341JAUnyy57hDcEmpLgZoeGDbuM5ByybqH3ZjPm01n4ul0KhcuH_gWS19MmrDOAcGDaO-iG5Xr0uuRBLG_09IfHs7WYQnFDPwoEXH7XxinZmHNYyr_AYWeGDDD63WhNIcQRK6XmM5HgSY22iPDYb4gBvYcM65eGXlQYh9dswxxKih5j5Nv_m7jW1q3axZM1eJemceT0iiXWkbjKQBN2AnmJkEYTR9DdcKcZ7JezZtMozSGst1i5oc3jpx0Ly3WbvJ_JOOFJmh9Xp43gqPWTvTcVuo9-DcWQLDmwvmKpMhS7nCzgp5CF6IMiy3_0YH4LYosKf92r4Z8qWUGM_E8JuS9JOVfXy2UYEnKFpJViCsqoAm4Cy4P226QAZrnxJZuE_Gq_m_5Hgf4vf0xqsZybv9-OSNiNfcyCzroaOpdSVsckihtbLOrNmW4-08ebr7PPkVbhSRnR15N3SxoFOoHcJVTKonCtNwRdHKa94Am--vDIUeNfL5pBZuHPAWJAdppVL7FGz3aHQUtQZPXDj-tmqVSHdsJ9PUmNvJveacP-3ns6KiJpx6W75xrRowB0s0X-T6oak9yA_tTkObmwSYnrD38g5IAHvr5AND2K4RGgOMzwMtFnfPT4lAMkI4RZ2JVtoALBRzRYaDK3CgNvD16w1THZTZSABKgl1cy1lYXN0LTEwmwg.m3u8
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="COP-A COP-E",Jeinz MaciasTV02
-https://video-weaver.sao05.hls.live-video.net/v1/playlist/CskFRajEFNBUCqTv4py0HIxkWc0-mqXBgTBxIH5iCIoOzmmBTxRFOK6ekREWiOxWZ5jFlFbb53UA1k3YTXblqZK0xHHdARuT98M25Om706rhwbd2fqYSPqXxs2Ba8X3SukGEAo3udeMqD2kqF5pUXUpzE0km1Rr_mYNrVk9PpZGyR7wUkZF3j8t0OQBFqwT2swF9tQqErdkBYLOSc4F3mQM1K-V2COmQHhlaW2yT2o_IFMeSLz0gbYTBK5OSOo53wOAVfOZSOyxOF3oJ5S7LPBF2zXrsX7cpRys4nDWf6QrLOAfxW17ks7wprOWluI512rRQv4c-35NCXyd6zsW7pFxB1htOuPs1nvu-Zv_xQFbgQovNUHAnWiDNn-_D8jtAqXGMk5D4_nisxAKqMVtCBBMbpyvxDL4oMgfNJvXBSovS4CwAROKQJ0CYiytBwK1admRi40gEqeB7R8qkpW2Us6w4Q2UM7XgaCpwNwEUXmkx4tGmHX77WYXuZ2vQNM40OictVXnVeSAok6tlUio2dY3bosze6UNlq7RZpybx-QPSDETyBdg_9BqFgHZyufJ7y1rLWptftNs2Iebp-RMhQkqsBpvFfPpvvDyJVNRq-9TA1TeKmzHqsMxQBgYoyuCMejF9tP444F_XFNwxqJHvxkCQtWbiKU_bjbmLGJrSQSIIgkvzrfoNcSPi5GOi8uWDuBZo79JFkpk4mONKUWI2NSZtFqrypiymNNQvF6R6wfEFY2k5Kl702_SIrGSov0UlY56egCzvCN7xhJJKff9EFHERv62hc8WwABI5GZlCeue2ug_vI92kGXcQvSnrAyFdLL1fBw4PAsr88rlWKrY6Dia2bJTA8rVORK71DESuEAf48rzaVmsn-WYWpcpJtICD_PK8OWvss5_up2Rieo26uk8t26m4MC-E73afUWPQT3N-6FL_BvdJYCeHwNiUaDL1wo83d9LDB3LxuqiABKgl1cy1lYXN0LTEwmwg.m3u8
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="COP-A COP-E",Jeinz MaciasTV03
-https://video-weaver.bog01.hls.live-video.net/v1/playlist/CtIFHRng0qwdAaEiP1z5gawtAqMXkj1-VySFaYlBm3KoxtUrG1D1y9kJWp-CUvPzE4JMcOM1e1Qi27Gh2TJpUorRwfQwKhee-vUiU_xeh5QYm63rWrhIR21PKhBQXcTAX2K8bEvP0dR8q6ETWdrPK2e77f7RVJRH9K7qf1WLfFv5wPCUi6ElUY2ik4_nVzNtpVXYv3oGz2_gngKHaWjBDuY2YYH7gOYqASnmBpfJkDpjOhHkF41pHysHQtotCMDd_V1xPkP0B0_fhCq6Y4N43iNPxEdbZyZWWQ8OCsKv4Es3VcEbkvFvSLcxxbxVLfdLosmdW9Iqvo0K4Y5Ys8rmndI6rB4gu7wKDjte9YmQ8n_FCk3gb7Xz6_4PL-WwdyQsg-8cV5W3sli5fDXSiWQu11kfOhE-1fyCQbu6e61tPYqrX447HFdQypib7Yri58uzFyXNDphrVoN9Ze3OpRGESClBd9Z6Yh4vC_REsAbh3RqCvrxmg9IuT5mk819ZMaux5yeHDp-46dScLVmiRtKez0XASJJvbOxM5xizzLBxONi6dt0Udh4PSMMd0k7zW29QQ-DDKKVXDyGBTxl7-76ITO0dZE2CM5TcnHKCWG_xoqe6XjEClBdQZtk1wr_q_RZHi8OzYNzD7Zj5ZBFt3AIfyQWDuYFrrEN1WxI1BAvBgesQpZg2NC3YiV577gTtFufrm5ClEkEP3ShkrcGJh3VQh9Bjcf1RGullsDmD5jN1vCThDAEOF7BrJo0X8tf_Mal9T4RhpOvd3cywME8N9M2tDsoDDFpZmCp8TLOovL1wiQdjgPcr61wV7NjGrm1XL8fbsv9Z9_R3SzYkNof92MNkeSE7qfhxk_dhb3hxkkDFb66r1dCE0-9cEkd7Dvd1k4wiTMfnL4_Amyr6hlLQVW0YdQyvB-UvcP_fKbgAnmYPO6FijTgsUG9Nf4Y9zm_8Fd3wnEVJfLIaDKymYOos9CyFB9_OCCABKgl1cy1lYXN0LTEwmwg.m3u8
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="COP-A COP-E",Jeinz MaciasTV04
-https://video-weaver.rio03.hls.live-video.net/v1/playlist/CtIFecrWxcgNXvU3XJ1937LbDeh4Y5RKsZc5rpizE8OZ6EJRpzTzTIOy4PtaxLsFj-TuyNXoVFGariAwAF7q6_oqKt7v2PXL9UfPkJ2fbll7dqgdCzHPvwPeVa0qL0TuVwxqQKc39eHT2FWKbXq7JffLRgOwP-zbUSm-D07_-aDNC_EEr23m5BNT5EuG7mZiIUifjY2PnLzswRw9tXBQx4s_Tw9p2Lt2pEz7yuznoB6TmBf1oLDUag0W-aAtVax8SE78OMFKWM5BT5J6MPjS1pEBntioiTF5YQi7licfJaUGRSbPgw3RMRGorckbwx8RYRnfoRPpDq9IaapmbfdlydcgUz1kup-6xhFDUcIGhW0cM9gOBXsJxAApRyOhL5COd5IoIcWVZD5BErm7wo1xKqQNRSVvh0wSGwWDpLl7fGdG-2oWXZwIrz7bZ-osfHa3_kWAKseN0NoMIUCC-Ys_8uBP2fJq-EIhmtSCYDuxekqJab12yeHQ36C99Vbb0wW_8psk06o_eeKLbdeABG5KqR9b-E7kDq_XQlmhNInymSEbw3G7IYaCsQkGV5LAnZQhAwE4yXDDotZOulvsbRy3NxbLZ8HN2mAx9t3AIUoeuceHt3V4QTcXbFaZTlmrHjlEGr6Jz_WkfgZH1cYQDHz4MI3DHLwN7zoa1bVZv2CgMDH3hkxKBfxRiVuG0cIR5yBLfrw89FEAQhGmXXH5MFO7VTDDoDDDmbR0EGntBiIxHu0rrvfY8iPGe9ujUHm4pQzv3mMP9BReQWJmTZ3QYM3BC4YsJ2qHKEMzxGDeIg1B5vIDb0mctDTqMNDhoWQW58Cbmx2wIcFE_yBNarH6_WyFPHj7VuhbI_gAvJaiAK_4yeY-qeopB-iCrQys1FGM_m1V20uXaxhSg4YOXikfnMQw8SNtKnjx8WvYsITP9CUcQu12QmYXxBEGDhfdFmjUcfa5CCjhxdoaDL4PqF1gdo7-IDrTfSABKgl1cy1lYXN0LTEwmwg.m3u8
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="COP-A COP-E",Jeinz MaciasTV1
+https://video-weaver.scl01.hls.live-video.net/v1/playlist/CskFyUmhKJ-Tr4CJEjFt_q8XptkHadIZj8tty_zmDS9cWV-jMEjId3QWrBd82y0j6zrwNacrTDi_ZVYLxIdmyZ_6iMnUZ2e1Dud2RmhQaKOQpfnNHtzGVsqU_Fh1PdoPjm2nEdUq18tACKeUSe0h5UeJiiBv6_8h4UteVt2mVImXBQa7ZmDBwexQ4IBtt2WjCfEbEIUAPZOfpDfIRfo9_zsDJoRyvifbSauZp3mV0l-L2Ds2_z1o0ahj78V4fRuwoJpHV-iQlYFPtGkT9Dq2UpbY2muZv4lihnKDkqlI-Sj1ZnIRSCj4wcdeYKNeR3SnEfyt9Wzdz_81BrF0_K2t8pSeD5M87w1dxYovB46Yvj6w70X0_6LQQoIUpEQtR98Je9BLvWfLZli0TR1Na3_AuxwoJo82eKIPqZhcRAS17TOsQ-lNKWmJo3qy00KbZA5OjvPR2ZXs6A3zBSrp5gHRpEpZks5rzTTe7fZYqMs1hFq-KqlH2g4-80HISdbalc99NMfbQJbEpqd9aFeecuc-2KOPn_vLonJ8walzkpPo7xU4xd2FbXkWrm9yuh4Y3wlPkmZtxvNdrkMWPIFADej0r7sx-jSvc4xzUhnscYDegi776NJ9PGEUmBQKoGZeQ76QCJBPWjOJjSTEXebBgh3CxrWzaAS2TWNbJS6cjn9S3zBRqjLEO6937vri69J1LZnWkhecsQIn0Bdgsksuwd3hynLNTDz1h8jnJYY1UA3jYjG9vf8kkE6AWhzBd2_NDm1DWM6YhOFM9uQI-65qhDrr-xGcfHy1IKDZ0I5bYgxo2wYyJXWgXFW5uST5-iAP0F6nghfjpWZyK2wbJOKm4zJyd4qGW0roZic62GAfbN2sLjDXHMTaMEmBc9rPPdK52dMqblDTBYvFDuPhBjSltSnyKmbV0DQ0w5W-vkcq2sueQ5FykoED2VUY4M5_chMaDEHK1dqPq8cB_yXrLCABKgl1cy1lYXN0LTEwnAg.m3u8
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="COP-A COP-E",Jeinz MaciasTV2
+https://video-weaver.scl01.hls.live-video.net/v1/playlist/CskF6-acfKzSOCpcy_ShygEW13GL94i9skB1b2TXh6ayHSd0MFoqc-3YPFBP8UJRHbsu-hYQrIaMFy0YC8gfvJYC3c-4qV3pdsEQRt-GQWQwW9kJ8sP-ZNVctJadc4I5nnC54la5Tw-JcsHBR-KhN_c7_DpNsueyJ81syf4Crg8Ynt5FI49rWusZc1LYUi2VqqewMTMal_0HS5whwVuPgFauSeKmGnz22MY3BMDt0lnVF99nV8iuaEfbV594RVhPKUtXOGE_gUjuIPtqKUVyRdigi8OJqRo96nFEXWajeB3x_PR2_xoiC8tuPervNoBdJN1Tenm5aJWdiSiTV5-JIUsyniYDXwtt0aOuBYT1wa2kPedNqbesOpil8WoIxYm50zpiKQyer7kq1SK79_Uh2lR_uh3uK01pTrwqfKUwoEHj5DSmwASaVEeP8HpcqTJ6NlULwldN3GKxdYbK4628r8qaj6NlU9WNgHKm0w0RTwqAg3WxX-FEvD92iGhHUs33AWVi5fS6hHuohGHGt6E82Tw30W8WItpNvmt3KmiedT-Cp86RPc5Y4FzPHA0eI6GEesQFiinble2HzRL5JYJD6WlWZLyz3gGCAZZMQZpYlQICXhpmjcJO_wPts9Dg6uNhUuk85RXFKCoQdQChsb_ZMIiINUHNxNUwaMO7KaNtz5jzQx88-zLHULl7W3ll12ZuTEzi4fBRwxYPpax5Y7nwrE5XiQLU0_sAv8eUGQgzpuxK6085YjoLgypeFbgTQRehNmHnNv4MbfZgfks_Fb8__7Zmv3HxF1xl7SAgpJViAFo8n-ukSvCHi8CYtr2l5CssEt3Bh7Vb8hT-jrp6TWgkJvrD-05d0Vsq8YgyLRN0cZRHaVfc1dx09rnDYUlQ3KzBvIqgI3T5UA6ejyLmnyYmfxzG6JsjtkA7I_nHDXBTRIliWom3INbatm8EX0oaDOZaZNBh5Uug0SRlTiABKgl1cy1lYXN0LTEwnAg.m3u8
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="COP-A COP-E",Jeinz MaciasTV3
+https://video-weaver.scl01.hls.live-video.net/v1/playlist/CtMFkfFicpQfUiVTqtk5PfcWYPiaNphR8Ak0VWxLhjJroLtR66GLYv7iNrX6v-p-BrskQpEJlUUJDcWohsmqjoL_HXDC_QN5ZhdWLYxbhl1BhBdrc-Inb71U89lsZhsVlTfkXdx_Hs7XiNDuN4HOJffB7NTQu05OyfGTOCNwxKA0oiDxP_WK_vj2OJ1BDTzbKv6pA-ilUhR9TItcrNtyInzdZyY04Q1sURfCqF0HsG9oaYoAorujAlu7OnfY5TOX7RYn0lQX0L1Idta8BJJO0-D6C59uPQG0LVu5036zcUYhbYDy7YaLyjkU4maWh0e3IFtf6FDiVEQkHt4UO8UJUTPVOWyfskLHOGcxnibotnxFrNmrj1noYbC1saaoxbkGQ7eykDQkSLPWZdyxI8egXs1PcBGxIWSYjR14v62PvsLhrsW4xnsYOZdcWYKYgQv4V80v9MAe1RrXwrRfAiOXt1kfjNYD1hrOfUTCRkujLz20RNRLyAXwQ4aNbjQdXb9yXrwd1_YhST_bUZyNo61yv4BuDG47-xfrtBTPTXdVd1l9GXl2pNz3FtFXv7iybouclTvxxSnMIgtpsycQcU4MV89lpf0rqE5BW2Jfkxn1Y0RZdRifMZmdr4HVG8JFgxCClqunIsgeQdbR6zzm-hm9uCNOIzNaMH0c1jDfbaHXDzG5p5dZScU7UJ8-lubG5RGpFAwuvxplRimclz5_r90HH6VmgH6_OJN1920bYm5K6v2aVm91rAOH3TEf2z1YxjBCG_hAwscmkInXe0HChS7fqDX01UJXChPjY57ztOOiHUBUhAMDiD0uT0RLJKsawH633UxYcbPNbUOwisNiFTbz4dS82C7l5okwk33ne0qi-YaUAxjXt7bBz4HcH9xkFDgaR5Owhva7RyktJINM1MU2j0PEb-LiMXYPnog1-Fj5c-mj5u2OPrTkvwMJHlLia7Yyy4ZoVAggGgz69Ibge1O5cmc67PogASoJdXMtZWFzdC0xMJwI.m3u8
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="COP-A COP-E",Jeinz MaciasTV4
+https://video-weaver.scl01.hls.live-video.net/v1/playlist/CtIF1BaVgDytM11JkTHBsocWxzDVQhRdnayfX5JqNQ4qSc4zVa63ez64x0Y7xFKBwFuk12rcPvN1037rN5ZfdxiSr_S-ntqPfFmCk_dlUT2pv5VS5WcTxsDTsfYdbLiC0ALDTZvj2ubZCocTJkV9jCS8y50DSosMYY2PTV66Qc1p07WfMDV5hVZ1U5U2MBjGenKjT-RgV-sIvxrk_NWaWd04CCj8wBrn35_5iaTZr34Lr4rsog_tDLVk5VLsAJImJSKooBXe3cIl3CqU7zh-kd2zkf0_9hRDOzq8EKhw7egKYowAoA5qBTrPXt5_QknVzsPJ6A3hkHo1VbAuXGsFjWNYL6ZWzfU4wNA01Cz8vDbMOYWv911iOyp0L-_wZ-C8sHEXUxJhIBgcte9OKH4Toh8NpXvQi-HSYCZJ25BZMTg5YRKrYosGAexOxVF8WqLBor_LCtla4Odw-PbU4D47pxlmskKjOr0Q8fdXikkE98Ah36f_lKnNdqyQJNdTqHae1e8zICcbbKfWgGrODCVQb4RMwVvPd0QUGifJX_KVoIo003qz8bX7NISEND6wTuhzZalLbQ3O3DmnjdWEgqB3ekHODGv9wnspvWj_sDjLQjfAztXjekeuRQfZ5Shz7KkkundX9hN08w5VcQrWrHJxOIn8izDpHw9qW7GYXyyaIf4-N-z0ueVWXMQFx4KBCG064QzAaq8QTTAx_hZQ_ZzW_6Mc74QU3kpBIbNzlJhaJXuD3JRlHgneKi6QlVDEQ45yBIl4TLTKG02pDWZaBV2Gx0KqJpVRZgUTK5B86mp7WnV239MygjrEVNw1QO2q0Lcv72cWlEx5wqbuz51VYkuLgzrW4_rGSYWHTldMODfaeYRoWwKycueNcTm7JTX_bJYfi45SNc22j8vgxZEVBzrVrWEPRprX9ZCJleNn8kUy-w_oIE2TqAmr9UjZYqKS96vHvZMTgwUaDJ_MMqgrnEGj0nOOhSABKgl1cy1lYXN0LTEwnAg.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7342d96a56b849d187276da30b26c23d~mv2.png"group-title="COP-A COP-E",UNIVISIÓN CD
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/114358
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7342d96a56b849d187276da30b26c23d~mv2.png"group-title="COP-A COP-E",UNIVISIÓN CD
