@@ -37,6 +37,8 @@ https://video.live.com.bo:3099/live/f10hdlive.m3u8
 https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://redcctvbolivia.com/wp-content/uploads/2024/02/Recurso-4.png"group-title="BOLIVIA",Canal Red CCTV
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EqPNCy5_4Mxipj9CWnXb6CkLdePU5bNn8FPBm2flEIibygejCbsLRqlXSBv1VDsN3g"group-title="COP-A COP-E",FUTBOL TV
+https://cdnhd.iblups.com/hls/kgVJTTykXe.m3u8
 #EXTINF:-1 tvg-logo="https://redencuentro.com/wp-content/uploads/2021/09/logo_rtve_oficial.png"group-title="COP-A COP-E",RTVE Radio TV Encuentro
 https://vdo.grupolimalive.com:3241/live/encuentrotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_98ffa7b03408470baf9f44d2cacb79cd~mv2.png"group-title="BOLIVIA",RED DTV HD
@@ -652,12 +654,6 @@ https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 https://streamyes.alsolnet.com/esportsmax/live/.m3u8
 
 DEPORTES
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png" group-title="COP-A COP-E",DEPORT TV
-https://cdnhd.iblups.com/hls/kgVJTTykXe.m3u8
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="COP-A COP-E",Jeinz MaciasTV1
-https://video-weaver.bog01.hls.live-video.net/v1/playlist/CtMF9fNxECXQ49uKvrbi_4wxRtBCBsvEo1MsvEpBgFWIJxkKBh4SXfPut0RlBgq2t8sUiGvUQ0YhTa-guY_gkZ8S9_NdjIW0g1C3wJe5SSWE2NMLaA4LdnXy70ALki27yHfoU0MOYFYnJfu6lkZB52m-JgLjd-IYt8mdiqbyKIfJ3_fZ_j5hrixnGrJIrwpOg5mOaVqtUpF3kDq0pe3JDB8AUkSsj2trz-b1KVtl_Y5dUduQqBha597iuLo-qaWwWggbcNFTgjb4ptMMk2lRdS7fDnFaRm-aBwGp72J9oKdPRmTRlgCGuX9RTQWsHPCEfHLt3Aof7LENThv37pehHmizOTLoid-6EqLGdcVtX3QrcZMz2ndbgR9yVPrQ0_TgGEF5BsnTfmZvZJtOjZ05A6Gr8UM-DyCcPEmt3Lc5rhjaLILMwgka9OQRd5iJbsn7RcyKFymDrzM2ysmr1QNn3d8hJcpMGY5cAJJsm5Op_X0jCNZkabOrzx5glPhYnYMWS3pNk2ZZDhUHb7xsOk2Tbi_rzE9JtGYfVJHeDBm9YMIIBtm-jpGzZ7MYBOKtzDIyKocyfOfd7PfJn18K_VuPBvGqmb8jYxCmsFzWqIMqM8ohg1Y7hnBCmRLbshQ1MEpJFo1xgXtPPKll-TPWv02_Nh0Jzj-lxIup1VHYobmYkNumrIwwuOl2-QpHnZrR6SMi81naW5YRvGPnhzfVFq2hjApRP8YArIRvGxlnKreB8-lrazCFgDExvbEvHpciUfaoPg4FEZwUy6Oxb5HZQTAeicYlKQ6qKsToyOPI5zLHZVFSHfMl23xWhK4UEOcJpmzG2YkhVOAPGmD31Zo0WOjEELAIFrgxsF-V26f7ECzTmD4F_NFReLzmO8gp7YDEhSUcgToLgMXEGEykX_riKLa8a4KCcp0kwryCEUllOlJFmcOq9yG2EPv1dg7tSOaDf7vPgHC6sfo_GgyRagSy16osfKXA0dggASoJdXMtZWFzdC0xMKAI.m3u8
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411115007.jpg"group-title="COP-A COP-E",Jeinz MaciasTV2
-https://video-weaver.rio03.hls.live-video.net/v1/playlist/CskFdHXphLRsg2FDVcTDFDYg9yELjGWvbxoneXYXrdqgBoimakqLAeJblKxFcqjkm6CB_Rj0SdsyA1fzJqua8kNRT64lxOXLK7cxaxPiD7ZKhveauHIsiWipCS3CKv-AuF9ITqXXCbmr9bnSWw5RBltaKi7z9sTgvr-s5sMtKjbN5mvO_719sA6NxVfBzIRYtP4Otd8Oq081yPbWSxzYUFX0BHJheyRfptpgFZAQ44d3ck7MKcfeBdY87K_q37_lwHW5MYv9Ga7quyI5tKpPm10QPgE-qr3CHJdfA34hbFYgsW_FKiwBNrCuDN9AHYNROuG8Z3gqZiD2jbhIJ61PmoTqWxUuBuFqouNky7Rg6nO0lKOuTUMlXi7R5Y7kkuFl9GE6Mj_1pIg5lPyHFhzUw4ui-ufg2i7C5mT7ZUbm2tBkQsSPSwUTZlEdVcF1_rxqwLiP2XcHmyvk3nbYgKxQQwJMXL1VFJqNOYDVGrzZF9XfBLK51eaeLqUr7romqRxgbHZk6qeohSZy_X_SwshqyyXfADJTpPlAhRuLvtvLWj3fz8mQIfU6nI7dVO_StV4hnX983wa0Ku0C0JlI4eg0zYbhsGQhIk-b1i4gmVBMOOxfKMhW8Brjvr6Mzqi9Hxr2F7dBGidKBdMQo0iS562VG_ilWZA8luco5ChjLcwHf4cLkpbk_yfy3p7E6hVVLm6qNbndx03eJOd3lVfEoV_eEqB8DEDWmUVM_n-oBYLmz8GH3MEPxOF8gD-yldE_bOdDvxmuSMJ5hByQp8-41Xlb6wfV5ea2OxCOD24JELhOEkAAqJfsV9mWA-dYaTZTqntD7NH0HP4wZMHNltNBVAHaorL3vBDMy317lntsMEaE5e0-sVwBdSiC9KShSMWb4FA63ZokyZSGX0Jkf6D58UQnNKyeNBx0XKHzNNRBpjYeaz_ONVOgPz2z97BXnuoaDCTJad3c_YMU0I_H1CABKgl1cy1lYXN0LTEwoAg.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7342d96a56b849d187276da30b26c23d~mv2.png"group-title="COP-A COP-E",UNIVISIÓN CD
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/114358
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7342d96a56b849d187276da30b26c23d~mv2.png"group-title="COP-A COP-E",UNIVISIÓN CD
