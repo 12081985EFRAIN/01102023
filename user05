@@ -92,6 +92,8 @@ https://tv.bitstreaming.net:3234/multi_live/play_720.m3u8
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TmSNZTg.jpeg"group-title="BOLIVIA",Radio Uno PST (SCZ)
 https://master.tucableip.com/pstbolivia/video.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_f59f88acd2a048cab43d22cb904c0193~mv2.png"group-title="BOLIVIA",RED AD VENIR
+https://streamer1.streamhost.org/salive/GMIredadvenirh/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redcctvbolivia.com/wp-content/uploads/2024/02/Recurso-4.png"group-title="BOLIVIA",RED CCTV (CBBA)
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5833fc7fc596498a828dac4212765aee~mv2.png"group-title="BOLIVIA",RED UNO
@@ -479,6 +481,7 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9ffaa5684d934605808320be38f27d49~mv2.png"group-title="CINE",NEO TV HD
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_1045e40ee9f9492ea5f0fbac4ae32d7d~mv2.png"group-title="CINE",TVS
+#EXTVLCOPT:http-user-agent=iPhone
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 CINE
@@ -1327,8 +1330,6 @@ https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w1730976
 http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/202/19839661.549005a5a2716.png"group-title="RELIGIOSOS",Comunión TV
 http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_f59f88acd2a048cab43d22cb904c0193~mv2.png"group-title="BOLIVIA",RED ADVENIR HD
-http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 
 RADIOS
 #EXTINF:-1 tvg-logo="https://radioscristianasdelmundo.com/sites/default/files/styles/player_image/public/2023-03/agua-viva-radio.png.webp"group-title="RADIOS",Agua Viva Radio
