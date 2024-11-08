@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d2bd23103be841a0896855d8ea5f08f6~mv2.png"group-title="BOLIVIA",AbyaYala (LP)
-https://master.tucableip.com/abyayalatv/playlist.m3u8
+https://seo.tv.bo/tv/IPSEO-TV-8.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_43fa06fe60cc4817af458fc7a993c9dc~mv2.png"group-title="BOLIVIA",Agenda Minera TV (LP)
 https://stv.boliviaplay.com.bo/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ATBBo2020Logo.png/150px-ATBBo2020Logo.png"group-title="BOLIVIA",ATB 24/7
@@ -23,8 +23,10 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tKLYYys.png"group-title="BOLIVIA",BoliviaTV 7.2 (LP) 24/7
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tKLYYys.png"group-title="BOLIVIA",BoliviaTV 7.2 (LP) 24/7
+https://5f2c1b0d880e5.streamlock.net:443/boliviatv2/videoboliviatv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_3d9f29c449f942a29bea39a8a6eae308~mv2.png"group-title="BOLIVIA",Bolivia Punto TV
-https://cloud5.streaminglivehd.com:3819/live/puntotvlive.m3u8
+https://cloud5.streaminglivehd.com:3819/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_e238994c87b9435797cc4fa9e328d8da~mv2.png"group-title="BOLIVIA",Bolivia Radio TV
 https://glb.bozztv.com/glb/ssh101/boliviaradiotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb-1024x278.png"group-title="BOLIVIA",Cadena A HD (LP)
@@ -35,6 +37,8 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/in
 https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7d5ebeaf237540f3bbdddf31125f1337~mv2.png"group-title="BOLIVIA",CINERAMA (LP)
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7d5ebeaf237540f3bbdddf31125f1337~mv2.png"tvg-group="CINE",CINERAMA (LP)
+https://tinyurl.com/cinerama2024
 #EXTINF:-1 tvg-logo="https://www.contactobolivia.com.bo/images/imagenes/logo-images/BOLIVIA%20COLORES.png"group-title="BOLIVIA",Contacto Bolivia tv
 https://edge.streann.com/contactobolivia1/contactobolivia1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJpcCI6IjE4MS4xMTUuMTcxLjE4OCIsImV4cCI6MTczMDQzMTcxMSwicmlkIjoiNWI4ZWQ3NzAyY2RjMDM1MmI4ZTIxYWNiIiwia2V5Ijoia2V5MSIsImNpZCI6IjViOGYwMThlMmNkYzAzNTJiOGUyMWFlZSJ9.DSac-AUhCH9Egpz1r-qYPSvODNsQi0mn0K8aUVQ7snI
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7034fe3ea1b943d681d3ec055edc60c6~mv2.png"group-title="BOLIVIA",Coral TV (OR)
@@ -44,15 +48,21 @@ https://vdo.grupolimalive.com:3889/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d661f7c0e3e34fdfb7413e667ef02f1f~mv2.png"group-title="BOLIVIA",Cristal HD
 https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ebd0393a990f4fe3ba97aff8514fe34f~mv2.png"group-title="BOLIVIA",CVC 57 HD (LP)
-https://scontent.flpb1-2.fna.fbcdn.net/hvideo-cln-lla/_nc_cat-110/_nc_sr_t-4/v/rASeli3KdCc0KvKZWxTK26NpwQgmpoKXuuFcKlKpa6mgHDw/_nc_ohc-9heH-bXVgqcQ7kNvgHj6ff2/live-dash/dash-abr-ibr-audio/1316404662830903.mpd?ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AYDkdFnDT1yJEPeO8CZ67a4c1O9As6y6USegA-V1f7oY5Q&oe=6725E480
+https://5d00db0e0fcd5.streamlock.net:443/7034/7034/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_06d458141482441b9b0b98192415efcf~mv2.png"group-title="BOLIVIA",Delta Instituto TV
 https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
+#EXTINF:-1 tvg-logo="https://faptv.bo/wp-content/uploads/2024/09/web.png"group-title="BOLIVIA",FAP TV
+https://envivo.bolivia-link.com:3234/live/faptvlive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_cc0944d0d4b6449689d7dd16b345f59a~mv2.png"group-title="BOLIVIA",Fortaleza TV Cueto (CBBA)
 https://glb.bozztv.com/glb/ssh101/fortalezacueto/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_800d3c7095b04532bf4f976a540bd8a4~mv2.png"group-title="BOLIVIA",FTV HD (LP)
 https://master.tucableip.com/ftv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c5099ed6e9154c9fa4786b43ab6b2c30~mv2.png"group-title="BOLIVIA",F10 HD (LP)
 https://stmv1.srvif.com/f10tv/f10tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7edb0d_d1833980ee254bab930765141048dce9~mv2.jpg"group-title="BOLIVIA",GIGAVISION (LP)
+https://tv2.bitstreaming.net:3896/multi_web/play.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7edb0d_d1833980ee254bab930765141048dce9~mv2.jpg"group-title="BOLIVIA",GIGAVISION (SCZ)
+https://tv.bitstreaming.net:3348/multi_web/play.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7edb0d_d1833980ee254bab930765141048dce9~mv2.jpg"group-title="BOLIVIA",GIGAVISION (SCZ)
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/GIGAVISION/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_a69f7bc3b7374fd780d55884f220ccee~mv2.png"group-title="BOLIVIA",Gogo Play SD
@@ -99,6 +109,8 @@ https://scontent.flpb1-1.fna.fbcdn.net/hvideo-eag-frc/_nc_cat-105/_nc_sr_t-4/v/r
 https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_92e1adc50a104d7ebbb4eefc1454b027~mv2.png"group-title="CINE",RED AMERICA TV HD (LP)
 https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8
+#EXTINF:-1 tvg-logo="https://www.redtvshop.com/wp-content/uploads/2021/11/cropped-TVCHOPP-1.png"group-title="CINE",Red TV SHOP
+https://master.tucableip.com/redtvshop/preview.mp4
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_fee949fca334433585d957e7c23b1d5d~mv2.png"group-title="BOLIVIA",RTP (LP)
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/RTP/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://redencuentro.com/wp-content/uploads/2021/09/logo_rtve_oficial.png"group-title="DEPORTES",RTVE Radio TV Encuentro
@@ -109,6 +121,8 @@ https://seo.tv.bo/tv/IPSEO-TV-1.m3u8
 https://seo.tv.bo/tv/IPSEO-TV-2.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_3ede3ab9e5b64ddcb6ba215a1caf6c91~mv2.png"group-title="BOLIVIA",SEO PELICULAS (LP)
 https://seo.tv.bo/tv/IPSEO-TV-4.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_3ede3ab9e5b64ddcb6ba215a1caf6c91~mv2.png"group-title="CINE",SEO PELICULAS (LP)
+https://tinyurl.com/SEOPELICULAS
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_280acad52b99492b8531d4949808a04d~mv2.png"group-title="BOLIVIA",SEO TV NOVELAS (LP)
 https://seo.tv.bo/tv/IPSEO-TV-3.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_bb2ba2cb6adf490ba8913dd48c7419e3~mv2.png"group-title="DEPORTES",SEO TV YUNGAS (LP)
@@ -137,8 +151,6 @@ https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8
 http://38.41.8.1:8000/play/a0az
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9c274d50cbac4c7e8850a628ae76b320~mv2.png"group-title="BOLIVIA",TV CULTURAS
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVCULTURA/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9c274d50cbac4c7e8850a628ae76b320~mv2.png"group-title="BOLIVIA",TV CULTURAS
-https://scontent.flpb1-2.fna.fbcdn.net/hvideo-pnb-prn/_nc_cat-109/_nc_sr_t-4/v/rASeIvyG8liwSJIcVHRqnMCv8Ceem7fLipuLe0PXpDCKxmg/_nc_ohc-M4QBbx4526wQ7kNvgHzl114/live-dash/dash-abr-ibr-audio/957363279758422.mpd?ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AYDNk9WG_Qy7qJOvMOYcbEk49_UX0rCU0BbIGT6giplNSA&oe=6725EAD3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nhg1uM9.png"group-title="BOLIVIA",TV Carigso (SCZ)
 https://paneltv.tecnohost.ec:3396/live/carigsotvlive.m3u8
 #EXTINF:-1, tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/logo-tvlatina.png"group-title="BOLIVIA",TV Latina (SCZ)
@@ -161,7 +173,7 @@ https://master.tucableip.com/univalletv/index.m3u8
 https://envivo.bolivia-link.com:3520/live/vostvlive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2c63116fd93f4ac9af7f95e90e8da442~mv2.png"group-title="CINE",VosTV HD (LP)
 https://envivo.bolivia-link.com:3520/live/vostvlive.m3u8
-#EXTINF:-1 tvg-logo="https://vtvcanal17.com/file/2023/12/logo-vtv.png"group-title="BOLIVIA",VTV Canal 17
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1255301990328008704/CHNYlf8N_400x400.jpg"group-title="BOLIVIA",VTV Canal 17
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/chunklist_w2100846963.m3u8
 #EXTINF:-1 tvg-logo="https://www.sccbolivia.com/wp-content/uploads/2020/09/xtotv-tx-inicio.png"group-title="BOLIVIA",XTOTV (LP)
 http://190.104.15.135/0.ts
@@ -408,9 +420,9 @@ https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2021/08/cropped-logo-new-Planeta-2-114x83.png"group-title="VARIEDADES",PlanetaRadioTV
 https://glb.bozztv.com/glb/ssh101/planeta55tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="",oasistvmonay
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_41cfe051aebb4eae9ab609a4c57f67d9~mv2.png"group-title="VARIEDADES",TVOASIS monay
 https://ssh101-fl.bozztv.com/ssh101/oasistv123/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="",TEVE GLOBO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_df7dbb4679f642cbb5fa64e907d7badf~mv2.png"group-title="VARIEDADES",TEVE GLOBO
 https://ssh101-fl.bozztv.com/ssh101/tvgolguatemala/tracks-v1a1/mono.m3u8
 
 
@@ -462,10 +474,6 @@ https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ca1c8ebed29c448596450c24f7c16a26~mv2.png"group-title="CINE",COSMOS TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7d5ebeaf237540f3bbdddf31125f1337~mv2.png"tvg-group="CINE",CINERAMA (LP)
-https://goo.su/Oriy
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7d5ebeaf237540f3bbdddf31125f1337~mv2.png"tvg-group="CINE",CINERAMA (LP)
-https://tinyurl.com/cinerama2024
 #EXTINF:-1 group-title="CINE" tvg-logo="https://static.wixstatic.com/media/a0450e_904871a9cf5b42059601ef0d87ac2399~mv2.png",BIG Channel
 https://ssh101-fl.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/origentv.png"group-title="VARIEDADES",Origen TV
@@ -714,7 +722,7 @@ http://38.41.8.1:8000/play/a07n
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2b02138544be4e898ed46b2322a24a8d~mv2.png"group-title="CINE",WARNER TV SD
 http://181.78.105.146:2000/play/a01f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_936a58e265fb4ae284fb41faf40962a6~mv2.png"group-title="INFANTILES",USMPTV
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_936a58e265fb4ae284fb41faf40962a6~mv2.png"group-title="INFANTILES",USMPTV PE
 http://209.45.20.210:50001/play/a02l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gQcuJSE.png"group-title="INFANTILES",TOONS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -722,7 +730,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_214664f653924f4fae988519470fc76f~mv2.png"group-title="INFANTILES",El Chavo
 https://giatv.bozztv.com/giatvplayout/giatv-208219/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://freepngimg.com/download/temp_png/77676-coloring-youtube-character-bean-mr.-book-cartoon_400x400.png",Mr Bean ES
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2b2689e07736420b8d238fb3cd90f577~mv2.png"group-title="INFANTILES",Mr Bean ES
 https://is.gd/TVuhXC?IT900001A7.m3u8
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://i.pinimg.com/280x280_RS/14/c0/9c/14c09ccc8ee3ecf154408fce11a2b7d6.jpg",Opinion Sur Niños
 https://ssh101-fl.bozztv.com/ssh101/opinionsurn/tracks-v1a1/mono.m3u8
@@ -922,9 +930,9 @@ https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adult_Swim_2003_logo.svg",Adult Swim 🇺🇸 (Samurai Jack Marathon)
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_7.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg",Tigo Sports PY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg"group-title="DEPORTES",Tigo Sports PY
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg",Tigo Sports HN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg"group-title="DEPORTES",Tigo Sports HN
 http://190.185.121.102:58092/play/a00s
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1829640691531616256/DAy_Bu8__400x400.jpg"group-title="DEPORTES",SPORTMAX AR
 https://glb.bozztv.com/glb/ssh101/sportmax/index.m3u8
@@ -954,10 +962,10 @@ http://209.45.20.210:50001/play/a03q/index.m3u8
 http://181.78.105.146:2000/play/a095/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png" group-title="DEPORTES",DIRECTV SPORTS
 http://181.78.105.146:2000/play/a096/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="DEPORTES",TUDN
-http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="DEPORTES",TUDN USA
 http://tvmate.icu:8080/Alan/Alan1234/82241
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="DEPORTES",TUDN
+http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="DEPORTES",TUDN MX
 http://181.78.105.146:8800/play/a07e
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="DEPORTES",TUDN MX
@@ -1014,6 +1022,12 @@ http://209.45.20.210:50001/play/a00w/index.m3u8
 http://209.45.20.210:50001/play/a02p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f54c72aad2c433390f57ebec8f2037c~mv2.png" group-title="DEPORTES",ESPN BR
 http://hzcdn.vood.top:80/hls/309458_.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1843830156994985984/9fnXmL23_200x200.jpg" group-title="DEPORTES",Fox Sports MX
+http://streamsy.online:2999/korrigan17/25AUFBdqOi/92
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1843830156994985984/9fnXmL23_200x200.jpg" group-title="DEPORTES",Fox Sports 2 MX
+http://streamsy.online:2999/korrigan17/25AUFBdqOi/93
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1843830156994985984/9fnXmL23_200x200.jpg" group-title="DEPORTES",Fox Sports 3 MX
+http://streamsy.online:2999/korrigan17/25AUFBdqOi/100
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5c57e568a44842289c5aeb4855c57d36~mv2.png"tvg-group="DEPORTES",CLARO SPORTS
 http://38.41.8.1:8000/play/a050
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5c57e568a44842289c5aeb4855c57d36~mv2.png"tvg-group="DEPORTES",CLARO SPORTS
@@ -1040,12 +1054,6 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_757056202ebc496fb1cdb86090644414~mv2.png"group-title="DEPORTES",BEIN SPORT EXTRA Ñ
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1843830156994985984/9fnXmL23_200x200.jpg" group-title="DEPORTES",Fox Sports MX
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/92
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1843830156994985984/9fnXmL23_200x200.jpg" group-title="DEPORTES",Fox Sports 2 MX
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/93
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1843830156994985984/9fnXmL23_200x200.jpg" group-title="DEPORTES",Fox Sports 3 MX
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/100
 #EXTINF:-1 tvg-logo="https://deportes-content.foxdeportes.com/static-media/img/Fox_Deportes/374/955/Captura_de_Pantalla_2023-10-19_a_la(s)_8.55.22_640x360_2319701059781.jpg" group-title="DEPORTES",PUNTO FINAL
 https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png"group-title="DEPORTES",ES | tdp
@@ -1508,6 +1516,20 @@ https://eu1.serviaudio.com:10983/stream
 http://radios.istbolivia.com:9304/stream
 #EXTINF:-1 tvg-logo="https://www.radioguadalupellallagua.com/assets/default.jpg"group-title="RADIOS",Radio Guadalupe Llallagua
 https://live.turadiotv.com/9304/stream
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJGKvhQ5/HA77.png"group-title="RADIOS",BoliviaPuntoHd
+https://stream-175.zeno.fm/nrmw40y0h3quv
+#EXTINF:-1 tvg-logo="https://portalderadios.net/logos/AddText_05-06-10.41.34.jpg"group-title="RADIOS",Radio Mix Potosi
+https://stream-173.zeno.fm/ycyx8mbg65quv
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s162190/images/logod.png"group-title="RADIOS",Radio Felicidad Uyuni
+https://streaming5.locucionar.com/proxy/felicidaduyuni?mp=/stream
+#EXTINF:-1 tvg-logo="https://uyuniweb.com/wp-content/uploads/2023/04/exis.jpg"group-title="RADIOS",RADIO EKHYNOXIS Uyuni
+https://stream-175.zeno.fm/qfxf2wt1xp8uv
+#EXTINF:-1 tvg-logo="https://uyuniweb.com/wp-content/uploads/2021/07/uyuni-andina.jpg"group-title="RADIOS",Radio Uyuni Andina
+https://stream-173.zeno.fm/hgccc39qefhvv
+#EXTINF:-1 tvg-logo="https://uyuniweb.com/wp-content/uploads/2020/06/envivo.png"group-title="RADIOS",Radio UyuniWeb
+https://emiteradio.com/proxy/clasicosingles?mp=/stream
+#EXTINF:-1 tvg-logo="https://megatvbolivia.com/wp-content/uploads/2024/04/ULTRA-150x150.png"group-title="RADIOS",ULTRA 88.5 FM
+https://live.turadiotv.com/9322/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/j4zylugz8drx.jpg"group-title="RADIOS",Radio Popular
 https://stream-163.zeno.fm/8ze4589b47zuv?zs=mWbe_pH4SjSkV2nhFENs5w
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hzyrqgyzqvuw.png"group-title="RADIOS",CNN ESPAÑOL
