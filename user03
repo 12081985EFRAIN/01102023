@@ -991,6 +991,12 @@ https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_7.m3u8
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg"group-title="DEPORTES",Tigo Sports HN
 http://190.185.121.102:58092/play/a00s
+#EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/movistar-deportes-logo.png" group-title="DEPORTES",Movistar Deportes HD ES
+http://190.119.123.220:4000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/movistar-deportes-logo.png" group-title="DEPORTES",Movistar Deportes HD ES
+http://200.60.124.19:29000/play/a06p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/movistar-deportes-logo.png" group-title="DEPORTES",Movistar Deportes FHD ES
+http://45.58.126.6:8000/play/a0c9/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rcn-logo-20EE2A3DDB-seeklogo.com.png"group-title="DEPORTES",RCN SD
 http://177.93.41.82:45000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rcn-logo-20EE2A3DDB-seeklogo.com.png"group-title="DEPORTES",RCN SD
@@ -1015,28 +1021,50 @@ http://167.250.180.251:4000/play/a0ia/index.m3u8
 http://190.119.123.220:4000/play/a01x/index.m3u8
 #EXTINF:-1 tvg-logo="https://cyberonline.ec/1664-home_default/el-canal-del-futbol-ecdf-1disp-1mes.jpg" group-title="DEPORTES",ECDF
 http://181.188.234.21:8000/play/a04u/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",GOL CARACOL
-http://38.41.8.1:8000/play/a06i
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",GOL CARACOL
-http://190.60.32.178:8178/play/a0b1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",GOL CARACOL
-http://181.78.82.6:46090/play/a02c/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",GOL CARACOL
-https://vasoc88.pricesaskeloadsc.com/global/caracoltv/index.m3u8?token=a914a61dfaaa7ee53e564d96140041dffcac41d1-7c-1731655584-1731619584
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",GOL CARACOL
-http://38.41.8.1:8000/play/a02v
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",COL | CARACOL HD
-http://209.126.106.30:8081/live/f2ef1f68faeb4e1fb1f2bfcdc3845589/493f0ed4f287463ab52fd523f548fa75/111.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",COL | CARACOL NACIONAL
-http://209.126.106.30:8081/live/ef24d30b29c745b983a90cb92303db7c/da9ad005d4af4554b62944bc29e50f72/113.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",COL | CARACOL TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",GOL CARACOL TV SD
+http://177.93.41.82:45000/play/a03c/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",GOL CARACOL TV SD
+http://181.78.85.59:2500/play/a01u/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",GOL CARACOL TV SD
+http://181.78.208.25:2600/play/a014/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",GOL CARACOL TV SD
+http://181.78.201.70:8000/play/a08r/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",GOL CARACOL TV SD
+http://190.61.44.134:1088/play/a01r
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",GOL CARACOL TV HD
+http://8.243.126.131:8000/play/a076/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",GOL CARACOL TV HD
+http://45.181.122.201:8081/play/a02p
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",GOL CARACOL TV HD
+http://217.26.191.64:8126/play/a0dk/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",GOL CARACOL TV HD
 http://209.126.106.30:8081/live/c41f525ea62e4900a3c29c87a18d8351/8c35aff547ec440e8aec0113681d4237/112.m3u8
-#EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/movistar-deportes-logo.png" group-title="DEPORTES",Movistar Deportes HD ES
-http://45.58.126.6:8000/play/a0c9/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/movistar-deportes-logo.png" group-title="DEPORTES",Movistar Deportes HD ES
-http://190.119.123.220:4000/play/a01k/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/movistar-deportes-logo.png" group-title="DEPORTES",Movistar Deportes HD ES
-http://200.60.124.19:29000/play/a06p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",GOL CARACOL HD
+http://190.60.49.244:4000/play/a07v
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",GOL CARACOL HD
+http://190.119.123.220:4000/play/a027/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",GOL CARACOL HD
+http://190.60.49.243:4000/play/a08w
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",GOL CARACOL TV HD
+http://190.60.49.244:4000/play/a08w
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",GOL CARACOL TV HD
+http://190.60.49.243:4000/play/a07v
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",GOL CARACOL TV HD
+http://190.90.252.200:16001/play/a07s/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",GOL CARACOL HD
+http://209.126.106.30:8081/live/f2ef1f68faeb4e1fb1f2bfcdc3845589/493f0ed4f287463ab52fd523f548fa75/111.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",GOL CARACOL FHD
+http://181.78.82.6:46090/play/a02c/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",GOL CARACOL FHD
+http://190.60.32.178:8178/play/a0b1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",GOL CARACOL FHD
+http://181.78.208.25:2600/play/a022/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gol_Caracol.svg/512px-Gol_Caracol.svg.png?20220323005714" group-title="DEPORTES",CARACOL NACIONAL
+http://209.126.106.30:8081/live/ef24d30b29c745b983a90cb92303db7c/da9ad005d4af4554b62944bc29e50f72/113.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-1.webcatalog.io/catalog/tyc-sports/tyc-sports-icon-filled-256.png" group-title="DEPORTES",TyC Sports play
+http://190.185.121.102:58092/play/a00p
+#EXTINF:-1 tvg-logo="https://cdn-1.webcatalog.io/catalog/tyc-sports/tyc-sports-icon-filled-256.png" group-title="DEPORTES",TyC Sports play (argentina)
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-1.webcatalog.io/catalog/tyc-sports/tyc-sports-icon-filled-256.png" group-title="DEPORTES",TyC-SPORTS SD
 http://167.250.180.251:4000/play/a0hh/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-1.webcatalog.io/catalog/tyc-sports/tyc-sports-icon-filled-256.png" group-title="DEPORTES",TyC-SPORTS HD
@@ -1047,14 +1075,10 @@ http://190.61.44.134:1088/play/a06g
 http://190.119.123.220:4000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-1.webcatalog.io/catalog/tyc-sports/tyc-sports-icon-filled-256.png" group-title="DEPORTES",TyC-SPORTS FHD
 http://207.248.3.81:8081/play/a0hc
-#EXTINF:-1 tvg-logo="https://cdn-1.webcatalog.io/catalog/tyc-sports/tyc-sports-icon-filled-256.png" group-title="DEPORTES",TyC-SPORTS AR
-http://190.185.121.102:58092/play/a00p
 #EXTINF:-1 tvg-logo="https://cdn-1.webcatalog.io/catalog/tyc-sports/tyc-sports-icon-filled-256.png" group-title="DEPORTES",TyC Sports AR
 http://200.60.124.19:29000/play/a017/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-1.webcatalog.io/catalog/tyc-sports/tyc-sports-icon-filled-256.png" group-title="DEPORTES",TyC Sports AR
 http://200.60.124.19:29000/play/a0am/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-1.webcatalog.io/catalog/tyc-sports/tyc-sports-icon-filled-256.png" group-title="DEPORTES",TyC Sports play (argentina)
-https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",tvg-logo="https://lh3.googleusercontent.com/-x_CIVSy5Fzg/YkytpLNmlVI/AAAAAAAADek/5sv89DCrHMofx0iph8leofRZIbMQZHyEACNcBGAsYHQ/w200-h200/1649192355948000-0.png",Sky sports
 http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",tvg-logo="https://lh3.googleusercontent.com/-x_CIVSy5Fzg/YkytpLNmlVI/AAAAAAAADek/5sv89DCrHMofx0iph8leofRZIbMQZHyEACNcBGAsYHQ/w200-h200/1649192355948000-0.png",Sky sports
