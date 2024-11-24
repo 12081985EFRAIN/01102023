@@ -183,8 +183,6 @@ https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/chunklist_w2100846963.m3
 http://190.104.15.135/0.ts
 #EXTINF:-1 tvg-logo="https://www.sccbolivia.com/wp-content/uploads/2020/09/xtotv-tx-inicio.png"group-title="RELIGIOSO",XTOTV (LP)
 https://tinyurl.com/EXTOTV
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg"group-title="DEPORTES",TIGO SPORTS BOLIVIA
-https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7edb0d_3fd6f38706584a88811c6a710482c489~mv2.png"group-title="DEPORTES",ZoyTV Sports
 https://down.zoymilton.com/glb/ssh101/zoytvsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7edb0d_3fd6f38706584a88811c6a710482c489~mv2.png"group-title="BOLIVIA",ZoyTV Bolivia
@@ -439,7 +437,6 @@ https://glb.bozztv.com/glb/ssh101/planeta55tv/tracks-v1a1/mono.m3u8
 https://ssh101-fl.bozztv.com/ssh101/oasistv123/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_df7dbb4679f642cbb5fa64e907d7badf~mv2.png"group-title="VARIEDADES",TEVE GLOBO
 https://ssh101-fl.bozztv.com/ssh101/tvgolguatemala/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 group-title="CINE" tvg-logo="https://www.pngkey.com/png/full/978-9783196_trailer-trailerhd-hdlogo-hd-graphics.png",Trailers HD ES
 https://bit.ly/3WChqoj?/chunklist_b1290000_slpt.m3u8
@@ -699,6 +696,8 @@ http://38.41.8.1:8000/play/a07n
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2b02138544be4e898ed46b2322a24a8d~mv2.png"group-title="CINE",WARNER TV SD
 http://181.78.105.146:2000/play/a01f/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png"group-title="INFANTILES",BOB ESPONJA YOU
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=Gmb3tidoyqA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gQcuJSE.png"group-title="INFANTILES",TOONS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" group-title="INFANTILES", SUPER CAMPEONES
@@ -987,9 +986,25 @@ https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adult_Swim_2003_logo.svg",Adult Swim 🇺🇸 (Samurai Jack Marathon)
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_7.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg"group-title="DEPORTES",Tigo Sports PY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg"group-title="DEPORTES",TIGO SPORTS BOLIVIA
+https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg"group-title="DEPORTES",TIGO SPORTS BOLIVIA
+http://45.226.35.131:3010/play/dfgh/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg"group-title="DEPORTES",TIGO SPORTS BOLIVIA
+http://45.226.35.129:3010/play/dfgh/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg"group-title="DEPORTES",TIGO SPORTS BOLIVIA
+http://45.226.35.131:3010/play/aser/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg"group-title="DEPORTES",TIGO SPORTS BOLIVIA
+http://45.226.35.129:3010/play/aser/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg"group-title="DEPORTES",TIGO SPORTS BOLIVIA
+http://45.226.35.131:3010/play/ikju/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg"group-title="DEPORTES",TIGO SPORTS BOLIVIA
+http://45.226.35.129:3010/play/ikju/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg"group-title="DEPORTES",TIGO SPORTS PARAGUAY
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg"group-title="DEPORTES",Tigo Sports HN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg"group-title="DEPORTES",TIGO SPORTS HONDURAS
 http://190.185.121.102:58092/play/a00s
 #EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/movistar-deportes-logo.png" group-title="DEPORTES",Movistar Deportes HD ES
 http://190.119.123.220:4000/play/a01k/index.m3u8
